@@ -1,0 +1,150 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VNZWxpcmE/c21hcG9ja2VNZWxpcmE/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Melira =====
+[1]Melira      |08:33:45 | 11-10-2026| login OK @melirakinasa | score=860 rank=6769
+[1]Melira      |08:33:45 | 11-10-2026| serverTime=2026-10-11T08:33:45.000Z local=2026-10-11T08:33:45.244Z
+--> [1]Melira menjalankan: Claim Daily
+[1]Melira      |08:33:46 | 11-10-2026| daily: sudah klaim (already=true) score=860
+--> [1]Melira menjalankan: Auto All Tasks (3 pending)
+[1]Melira      |08:33:48 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melirakinasa/status/2109200426018228778
+[1]Melira      |08:33:48 | 11-10-2026| delay 10s...
+[1]Melira      |08:34:02 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melirakinasa/status/2109200473542686932
+[1]Melira      |08:34:02 | 11-10-2026| delay 10s...
+[1]Melira      |08:34:16 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melirakinasa/status/2109200280868220247
+[1]Melira      |08:34:16 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Melira      |08:34:17 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/melirakinasa/status/2109200594473748741
+--> [1]Melira menjalankan: Watch Anime
+[1]Melira      |08:34:18 | 11-10-2026| watch: 1 video belum completed: oshi-first-journey
+[1]Melira      |08:34:18 | 11-10-2026| watch [1/1] farming oshi-first-journey...
+[1]Melira      |08:34:21 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Melira      |08:34:27 | 11-10-2026| watch oshi-first-journey: 6% (5.87/87.00s)
+[1]Melira      |08:34:33 | 11-10-2026| watch oshi-first-journey: 12% (11.28/87.00s)
+[1]Melira      |08:34:39 | 11-10-2026| watch oshi-first-journey: 19% (16.66/87.00s)
+[1]Melira      |08:34:45 | 11-10-2026| watch oshi-first-journey: 25% (22.15/87.00s)
+[1]Melira      |08:34:52 | 11-10-2026| watch oshi-first-journey: 32% (28.14/87.00s)
+[1]Melira      |08:34:59 | 11-10-2026| watch oshi-first-journey: 39% (34.19/87.00s)
+[1]Melira      |08:35:06 | 11-10-2026| watch oshi-first-journey: 46% (40.49/87.00s)
+[1]Melira      |08:35:14 | 11-10-2026| watch oshi-first-journey: 54% (47.12/87.00s)
+[1]Melira      |08:35:20 | 11-10-2026| watch oshi-first-journey: 61% (53.63/87.00s)
+[1]Melira      |08:35:29 | 11-10-2026| watch oshi-first-journey: 68% (59.58/87.00s)
+[1]Melira      |08:35:36 | 11-10-2026| watch oshi-first-journey: 76% (66.29/87.00s)
+[1]Melira      |08:35:43 | 11-10-2026| watch oshi-first-journey: 83% (72.29/87.00s)
+[1]Melira      |08:35:49 | 11-10-2026| watch oshi-first-journey: 90% (78.76/87.00s)
+[1]Melira      |08:35:49 | 11-10-2026| watch oshi-first-journey: COMPLETED (78.76/87.00s)
+--> [1]Melira menjalankan: Read Article
+[1]Melira      |08:35:50 | 11-10-2026| news: 22/24 artikel selesai dibaca
+[1]Melira      |08:35:51 | 11-10-2026| mint eligibility: {"userId":"1826663046670155776","youtube":{"url":"https://www.youtube.com/@meliiraa","status":"submitted","revision":"dd9bdeba-b581-4def-9d3e-aa1ed38342f1","submittedAt":1791678905,"reviewedAt":179168
+[1]Melira      |08:35:58 | 11-10-2026| news [1/2] find-your-anime: OK completed=23
+[1]Melira      |08:36:08 | 11-10-2026| news [2/2] smart-pocket-first-steps: OK completed=24
+--> [1]Melira menjalankan: Quiz Anime
+[1]Melira      |08:36:12 | 11-10-2026| quiz ep1: BENAR (0) +10 poin
+[1]Melira      |08:36:18 | 11-10-2026| quiz ep2: BENAR (1) +10 poin
+[1]Melira      |08:36:23 | 11-10-2026| quiz ep3: BENAR (2) +10 poin
+[1]Melira      |08:36:27 | 11-10-2026| quiz ep4: BENAR (3) +10 poin
+[1]Melira      |08:36:32 | 11-10-2026| quiz ep5: BENAR (0) +10 poin
+[1]Melira      |08:36:37 | 11-10-2026| quiz ep6: BENAR (1) +10 poin
+--> [1]Melira menjalankan: Music Missions (realtime, bisa lama!)
+[1]Melira      |08:36:45 | 11-10-2026| music memutar "この手は覚えてる" (94s)...
+[1]Melira      |08:36:56 | 11-10-2026| music "この手は覚えてる": 9% (9.0036/94s)
+[1]Melira      |08:37:07 | 11-10-2026| music "この手は覚えてる": 20% (19.254600000000003/94s)
+[1]Melira      |08:37:19 | 11-10-2026| music "この手は覚えてる": 30% (29.081700000000005/94s)
+[1]Melira      |08:37:29 | 11-10-2026| music "この手は覚えてる": 41% (39.43260000000001/94s)
+[1]Melira      |08:37:40 | 11-10-2026| music "この手は覚えてる": 52% (49.150800000000004/94s)
+[1]Melira      |08:37:52 | 11-10-2026| music "この手は覚えてる": 62% (58.9221/94s)
+[1]Melira      |08:38:02 | 11-10-2026| music "この手は覚えてる": 73% (69.0885/94s)
+[1]Melira      |08:38:14 | 11-10-2026| music "この手は覚えてる": 83% (78.83099999999999/94s)
+[1]Melira      |08:38:16 | 11-10-2026| music "この手は覚えてる": selesai 78.83099999999999s
+[1]Melira      |08:38:18 | 11-10-2026| music memutar "キャンバス" (125s)...
+[1]Melira      |08:38:29 | 11-10-2026| music "キャンバス": 7% (9.0009/125s)
+[1]Melira      |08:38:45 | 11-10-2026| music "キャンバス": 14% (18.7335/125s)
+[1]Melira      |08:38:56 | 11-10-2026| music "キャンバス": 26% (33.2694/125s)
+[1]Melira      |08:39:11 | 11-10-2026| music "キャンバス": 35% (43.8291/125s)
+[1]Melira      |08:39:22 | 11-10-2026| music "キャンバス": 45% (56.61449999999999/125s)
+[1]Melira      |08:39:33 | 11-10-2026| music "キャンバス": 53% (67.1094/125s)
+[1]Melira      |08:39:44 | 11-10-2026| music "キャンバス": 61% (77.03009999999999/125s)
+[1]Melira      |08:39:55 | 11-10-2026| music "キャンバス": 69% (86.7636/125s)
+[1]Melira      |08:40:08 | 11-10-2026| music "キャンバス": 77% (96.5313/125s)
+[1]Melira      |08:40:20 | 11-10-2026| music "キャンバス": 86% (107.8407/125s)
+[1]Melira      |08:40:22 | 11-10-2026| music "キャンバス": selesai 107.8407s
+[1]Melira      |08:40:24 | 11-10-2026| music memutar "ゆっくり帰ろう" (153s)...
+[1]Melira      |08:40:35 | 11-10-2026| music "ゆっくり帰ろう": 5% (9.0045/153s)
+[1]Melira      |08:40:47 | 11-10-2026| music "ゆっくり帰ろう": 12% (18.9099/153s)
+[1]Melira      |08:40:58 | 11-10-2026| music "ゆっくり帰ろう": 19% (29.5164/153s)
+[1]Melira      |08:41:09 | 11-10-2026| music "ゆっくり帰ろう": 25% (39.2652/153s)
+[1]Melira      |08:41:20 | 11-10-2026| music "ゆっくり帰ろう": 32% (49.5522/153s)
+[1]Melira      |08:41:34 | 11-10-2026| music "ゆっくり帰ろう": 38% (59.613299999999995/153s)
+[1]Melira      |08:41:44 | 11-10-2026| music "ゆっくり帰ろう": 46% (71.6463/153s)
+[1]Melira      |08:41:56 | 11-10-2026| music "ゆっくり帰ろう": 53% (81.4563/153s)
+[1]Melira      |08:42:07 | 11-10-2026| music "ゆっくり帰ろう": 59% (91.6002/153s)
+[1]Melira      |08:42:19 | 11-10-2026| music "ゆっくり帰ろう": 66% (101.5245/153s)
+[1]Melira      |08:42:34 | 11-10-2026| music "ゆっくり帰ろう": 73% (112.88250000000001/153s)
+[1]Melira      |08:42:46 | 11-10-2026| music "ゆっくり帰ろう": 82% (125.8524/153s)
+[1]Melira      |08:42:46 | 11-10-2026| music "ゆっくり帰ろう": selesai 125.8524s
+[1]Melira      |08:42:48 | 11-10-2026| music memutar "うたかた" (185s)...
+[1]Melira      |08:43:01 | 11-10-2026| music "うたかた": 4% (9.0036/185s)
+[1]Melira      |08:43:12 | 11-10-2026| music "うたかた": 11% (20.7234/185s)
+[1]Melira      |08:43:24 | 11-10-2026| music "うたかた": 16% (30.447900000000004/185s)
+[1]Melira      |08:43:35 | 11-10-2026| music "うたかた": 22% (40.770900000000005/185s)
+[1]Melira      |08:43:50 | 11-10-2026| music "うたかた": 27% (51.309900000000006/185s)
+[1]Melira      |08:44:02 | 11-10-2026| music "うたかた": 34% (64.5597/185s)
+[1]Melira      |08:44:15 | 11-10-2026| music "うたかた": 40% (75.35340000000001/185s)
+[1]Melira      |08:44:28 | 11-10-2026| music "うたかた": 47% (86.97330000000001/185s)
+[1]Melira      |08:44:39 | 11-10-2026| music "うたかた": 53% (98.49510000000001/185s)
+[1]Melira      |08:44:50 | 11-10-2026| music "うたかた": 58% (108.38520000000001/185s)
+[1]Melira      |08:45:01 | 11-10-2026| music "うたかた": 63% (118.35180000000001/185s)
+[1]Melira      |08:45:12 | 11-10-2026| music "うたかた": 69% (128.5137/185s)
+[1]Melira      |08:45:24 | 11-10-2026| music "うたかた": 74% (138.52530000000002/185s)
+[1]Melira      |08:45:36 | 11-10-2026| music "うたかた": 80% (149.3091/185s)
+[1]Melira      |08:45:36 | 11-10-2026| music "うたかた": selesai 149.3091s
+[1]Melira      |08:45:39 | 11-10-2026| music memutar "ぬくもり" (188s)...
+[1]Melira      |08:45:50 | 11-10-2026| music "ぬくもり": 4% (9.0063/188s)
+[1]Melira      |08:46:02 | 11-10-2026| music "ぬくもり": 10% (18.910800000000002/188s)
+[1]Melira      |08:46:13 | 11-10-2026| music "ぬくもり": 15% (29.2968/188s)
+[1]Melira      |08:46:25 | 11-10-2026| music "ぬくもり": 20% (39.2175/188s)
+[1]Melira      |08:46:36 | 11-10-2026| music "ぬくもり": 26% (50.0904/188s)
+[1]Melira      |08:46:47 | 11-10-2026| music "ぬくもり": 31% (59.9022/188s)
+[1]Melira      |08:46:58 | 11-10-2026| music "ぬくもり": 37% (69.7176/188s)
+[1]Melira      |08:47:11 | 11-10-2026| music "ぬくもり": 42% (80.44470000000001/188s)
+[1]Melira      |08:47:22 | 11-10-2026| music "ぬくもり": 48% (91.9899/188s)
+[1]Melira      |08:47:36 | 11-10-2026| music "ぬくもり": 54% (101.997/188s)
+[1]Melira      |08:47:49 | 11-10-2026| music "ぬくもり": 60% (113.7969/188s)
+[1]Melira      |08:47:59 | 11-10-2026| music 9bb6c6d9-3494-4886-87a4-ea3cc34b0108: heartbeat GAGAL http=503, stop trek
+[1]Melira      |08:47:59 | 11-10-2026| music "ぬくもり": selesai 125.6355s
+[1]Melira      |08:47:59 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Melira      |08:47:59 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Melira menjalankan: Claim Missions
+[1]Melira      |08:47:59 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Melira menjalankan: Check Eligibility
+
+--- eligibility [1]Melira ---
+  @melirakinasa | score=860 rank=6769
+  tasks    [###################-] 73/76
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+--> [1]Melira menjalankan: Read Manga
+[1]Melira      |08:48:00 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Melira menjalankan: Get Gift
+[1]Melira      |08:48:00 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Melira menjalankan: Setup Profile
+[1]Melira      |08:48:00 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Melira menjalankan: Bind Wallet
+[1]Melira      |08:48:00 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+== RINGKASAN ==
+- Melira: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+60pt) | watch 1/1 completed | musik 5 trek ~587.4687s | artikel 2 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
