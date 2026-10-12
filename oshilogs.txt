@@ -12,139 +12,465 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Melira =====
-[1]Melira      |08:33:45 | 11-10-2026| login OK @melirakinasa | score=860 rank=6769
-[1]Melira      |08:33:45 | 11-10-2026| serverTime=2026-10-11T08:33:45.000Z local=2026-10-11T08:33:45.244Z
+[1]Melira      |16:35:00 | 12-10-2026| login OK @melirakinasa | score=950 rank=6446
+[1]Melira      |16:35:00 | 12-10-2026| serverTime=2026-10-12T16:34:59.000Z local=2026-10-12T16:35:00.043Z
 --> [1]Melira menjalankan: Claim Daily
-[1]Melira      |08:33:46 | 11-10-2026| daily: sudah klaim (already=true) score=860
---> [1]Melira menjalankan: Auto All Tasks (3 pending)
-[1]Melira      |08:33:48 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melirakinasa/status/2109200426018228778
-[1]Melira      |08:33:48 | 11-10-2026| delay 10s...
-[1]Melira      |08:34:02 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melirakinasa/status/2109200473542686932
-[1]Melira      |08:34:02 | 11-10-2026| delay 10s...
-[1]Melira      |08:34:16 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melirakinasa/status/2109200280868220247
-[1]Melira      |08:34:16 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Melira      |08:34:17 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/melirakinasa/status/2109200594473748741
+[1]Melira      |16:35:01 | 12-10-2026| daily: OK +10 poin score=960
+--> [1]Melira menjalankan: Auto All Tasks (10 pending)
+[1]Melira      |16:35:03 | 12-10-2026| [1/10] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melirakinasa/status/2109683785686299908
+[1]Melira      |16:35:03 | 12-10-2026| delay 10s...
+[1]Melira      |16:35:16 | 12-10-2026| [2/10] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melirakinasa/status/2109683790542830747
+[1]Melira      |16:35:16 | 12-10-2026| delay 10s...
+[1]Melira      |16:35:28 | 12-10-2026| [3/10] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melirakinasa/status/2109683865231677436
+[1]Melira      |16:35:28 | 12-10-2026| delay 10s...
+[1]Melira      |16:35:41 | 12-10-2026| [4/10] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melirakinasa/status/2109684139274566378
+[1]Melira      |16:35:41 | 12-10-2026| delay 10s...
+[1]Melira      |16:35:53 | 12-10-2026| [5/10] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Melira      |16:35:53 | 12-10-2026| delay 10s...
+[1]Melira      |16:36:05 | 12-10-2026| [6/10] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melirakinasa/status/2109684113284285108
+[1]Melira      |16:36:05 | 12-10-2026| delay 10s...
+[1]Melira      |16:36:17 | 12-10-2026| [7/10] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melirakinasa/status/2109684038481285119
+[1]Melira      |16:36:17 | 12-10-2026| delay 10s...
+[1]Melira      |16:36:30 | 12-10-2026| [8/10] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melirakinasa/status/2109684106779851126
+[1]Melira      |16:36:30 | 12-10-2026| delay 10s...
+[1]Melira      |16:36:42 | 12-10-2026| [9/10] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melirakinasa/status/2109684339858213592
+[1]Melira      |16:36:42 | 12-10-2026| delay 10s...
+[1]Melira      |16:36:55 | 12-10-2026| [10/10] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Melira      |16:36:55 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Melira      |16:36:56 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/melirakinasa/status/2109684313690930518
 --> [1]Melira menjalankan: Watch Anime
-[1]Melira      |08:34:18 | 11-10-2026| watch: 1 video belum completed: oshi-first-journey
-[1]Melira      |08:34:18 | 11-10-2026| watch [1/1] farming oshi-first-journey...
-[1]Melira      |08:34:21 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Melira      |08:34:27 | 11-10-2026| watch oshi-first-journey: 6% (5.87/87.00s)
-[1]Melira      |08:34:33 | 11-10-2026| watch oshi-first-journey: 12% (11.28/87.00s)
-[1]Melira      |08:34:39 | 11-10-2026| watch oshi-first-journey: 19% (16.66/87.00s)
-[1]Melira      |08:34:45 | 11-10-2026| watch oshi-first-journey: 25% (22.15/87.00s)
-[1]Melira      |08:34:52 | 11-10-2026| watch oshi-first-journey: 32% (28.14/87.00s)
-[1]Melira      |08:34:59 | 11-10-2026| watch oshi-first-journey: 39% (34.19/87.00s)
-[1]Melira      |08:35:06 | 11-10-2026| watch oshi-first-journey: 46% (40.49/87.00s)
-[1]Melira      |08:35:14 | 11-10-2026| watch oshi-first-journey: 54% (47.12/87.00s)
-[1]Melira      |08:35:20 | 11-10-2026| watch oshi-first-journey: 61% (53.63/87.00s)
-[1]Melira      |08:35:29 | 11-10-2026| watch oshi-first-journey: 68% (59.58/87.00s)
-[1]Melira      |08:35:36 | 11-10-2026| watch oshi-first-journey: 76% (66.29/87.00s)
-[1]Melira      |08:35:43 | 11-10-2026| watch oshi-first-journey: 83% (72.29/87.00s)
-[1]Melira      |08:35:49 | 11-10-2026| watch oshi-first-journey: 90% (78.76/87.00s)
-[1]Melira      |08:35:49 | 11-10-2026| watch oshi-first-journey: COMPLETED (78.76/87.00s)
+[1]Melira      |16:36:57 | 12-10-2026| watch: semua video sudah completed
 --> [1]Melira menjalankan: Read Article
-[1]Melira      |08:35:50 | 11-10-2026| news: 22/24 artikel selesai dibaca
-[1]Melira      |08:35:51 | 11-10-2026| mint eligibility: {"userId":"1826663046670155776","youtube":{"url":"https://www.youtube.com/@meliiraa","status":"submitted","revision":"dd9bdeba-b581-4def-9d3e-aa1ed38342f1","submittedAt":1791678905,"reviewedAt":179168
-[1]Melira      |08:35:58 | 11-10-2026| news [1/2] find-your-anime: OK completed=23
-[1]Melira      |08:36:08 | 11-10-2026| news [2/2] smart-pocket-first-steps: OK completed=24
+[1]Melira      |16:36:59 | 12-10-2026| news: 24/24 artikel selesai dibaca
+[1]Melira      |16:36:59 | 12-10-2026| mint eligibility: {"userId":"1826663046670155776","youtube":{"url":"https://www.youtube.com/@meliiraa","status":"submitted","revision":"dd9bdeba-b581-4def-9d3e-aa1ed38342f1","submittedAt":1791678905,"reviewedAt":179168
+[1]Melira      |16:36:59 | 12-10-2026| news: semua artikel sudah dibaca
 --> [1]Melira menjalankan: Quiz Anime
-[1]Melira      |08:36:12 | 11-10-2026| quiz ep1: BENAR (0) +10 poin
-[1]Melira      |08:36:18 | 11-10-2026| quiz ep2: BENAR (1) +10 poin
-[1]Melira      |08:36:23 | 11-10-2026| quiz ep3: BENAR (2) +10 poin
-[1]Melira      |08:36:27 | 11-10-2026| quiz ep4: BENAR (3) +10 poin
-[1]Melira      |08:36:32 | 11-10-2026| quiz ep5: BENAR (0) +10 poin
-[1]Melira      |08:36:37 | 11-10-2026| quiz ep6: BENAR (1) +10 poin
+[1]Melira      |16:37:00 | 12-10-2026| quiz ep1: sudah dijawab
+[1]Melira      |16:37:00 | 12-10-2026| quiz ep2: sudah dijawab
+[1]Melira      |16:37:00 | 12-10-2026| quiz ep3: sudah dijawab
+[1]Melira      |16:37:00 | 12-10-2026| quiz ep4: sudah dijawab
+[1]Melira      |16:37:00 | 12-10-2026| quiz ep5: sudah dijawab
+[1]Melira      |16:37:00 | 12-10-2026| quiz ep6: sudah dijawab
 --> [1]Melira menjalankan: Music Missions (realtime, bisa lama!)
-[1]Melira      |08:36:45 | 11-10-2026| music memutar "この手は覚えてる" (94s)...
-[1]Melira      |08:36:56 | 11-10-2026| music "この手は覚えてる": 9% (9.0036/94s)
-[1]Melira      |08:37:07 | 11-10-2026| music "この手は覚えてる": 20% (19.254600000000003/94s)
-[1]Melira      |08:37:19 | 11-10-2026| music "この手は覚えてる": 30% (29.081700000000005/94s)
-[1]Melira      |08:37:29 | 11-10-2026| music "この手は覚えてる": 41% (39.43260000000001/94s)
-[1]Melira      |08:37:40 | 11-10-2026| music "この手は覚えてる": 52% (49.150800000000004/94s)
-[1]Melira      |08:37:52 | 11-10-2026| music "この手は覚えてる": 62% (58.9221/94s)
-[1]Melira      |08:38:02 | 11-10-2026| music "この手は覚えてる": 73% (69.0885/94s)
-[1]Melira      |08:38:14 | 11-10-2026| music "この手は覚えてる": 83% (78.83099999999999/94s)
-[1]Melira      |08:38:16 | 11-10-2026| music "この手は覚えてる": selesai 78.83099999999999s
-[1]Melira      |08:38:18 | 11-10-2026| music memutar "キャンバス" (125s)...
-[1]Melira      |08:38:29 | 11-10-2026| music "キャンバス": 7% (9.0009/125s)
-[1]Melira      |08:38:45 | 11-10-2026| music "キャンバス": 14% (18.7335/125s)
-[1]Melira      |08:38:56 | 11-10-2026| music "キャンバス": 26% (33.2694/125s)
-[1]Melira      |08:39:11 | 11-10-2026| music "キャンバス": 35% (43.8291/125s)
-[1]Melira      |08:39:22 | 11-10-2026| music "キャンバス": 45% (56.61449999999999/125s)
-[1]Melira      |08:39:33 | 11-10-2026| music "キャンバス": 53% (67.1094/125s)
-[1]Melira      |08:39:44 | 11-10-2026| music "キャンバス": 61% (77.03009999999999/125s)
-[1]Melira      |08:39:55 | 11-10-2026| music "キャンバス": 69% (86.7636/125s)
-[1]Melira      |08:40:08 | 11-10-2026| music "キャンバス": 77% (96.5313/125s)
-[1]Melira      |08:40:20 | 11-10-2026| music "キャンバス": 86% (107.8407/125s)
-[1]Melira      |08:40:22 | 11-10-2026| music "キャンバス": selesai 107.8407s
-[1]Melira      |08:40:24 | 11-10-2026| music memutar "ゆっくり帰ろう" (153s)...
-[1]Melira      |08:40:35 | 11-10-2026| music "ゆっくり帰ろう": 5% (9.0045/153s)
-[1]Melira      |08:40:47 | 11-10-2026| music "ゆっくり帰ろう": 12% (18.9099/153s)
-[1]Melira      |08:40:58 | 11-10-2026| music "ゆっくり帰ろう": 19% (29.5164/153s)
-[1]Melira      |08:41:09 | 11-10-2026| music "ゆっくり帰ろう": 25% (39.2652/153s)
-[1]Melira      |08:41:20 | 11-10-2026| music "ゆっくり帰ろう": 32% (49.5522/153s)
-[1]Melira      |08:41:34 | 11-10-2026| music "ゆっくり帰ろう": 38% (59.613299999999995/153s)
-[1]Melira      |08:41:44 | 11-10-2026| music "ゆっくり帰ろう": 46% (71.6463/153s)
-[1]Melira      |08:41:56 | 11-10-2026| music "ゆっくり帰ろう": 53% (81.4563/153s)
-[1]Melira      |08:42:07 | 11-10-2026| music "ゆっくり帰ろう": 59% (91.6002/153s)
-[1]Melira      |08:42:19 | 11-10-2026| music "ゆっくり帰ろう": 66% (101.5245/153s)
-[1]Melira      |08:42:34 | 11-10-2026| music "ゆっくり帰ろう": 73% (112.88250000000001/153s)
-[1]Melira      |08:42:46 | 11-10-2026| music "ゆっくり帰ろう": 82% (125.8524/153s)
-[1]Melira      |08:42:46 | 11-10-2026| music "ゆっくり帰ろう": selesai 125.8524s
-[1]Melira      |08:42:48 | 11-10-2026| music memutar "うたかた" (185s)...
-[1]Melira      |08:43:01 | 11-10-2026| music "うたかた": 4% (9.0036/185s)
-[1]Melira      |08:43:12 | 11-10-2026| music "うたかた": 11% (20.7234/185s)
-[1]Melira      |08:43:24 | 11-10-2026| music "うたかた": 16% (30.447900000000004/185s)
-[1]Melira      |08:43:35 | 11-10-2026| music "うたかた": 22% (40.770900000000005/185s)
-[1]Melira      |08:43:50 | 11-10-2026| music "うたかた": 27% (51.309900000000006/185s)
-[1]Melira      |08:44:02 | 11-10-2026| music "うたかた": 34% (64.5597/185s)
-[1]Melira      |08:44:15 | 11-10-2026| music "うたかた": 40% (75.35340000000001/185s)
-[1]Melira      |08:44:28 | 11-10-2026| music "うたかた": 47% (86.97330000000001/185s)
-[1]Melira      |08:44:39 | 11-10-2026| music "うたかた": 53% (98.49510000000001/185s)
-[1]Melira      |08:44:50 | 11-10-2026| music "うたかた": 58% (108.38520000000001/185s)
-[1]Melira      |08:45:01 | 11-10-2026| music "うたかた": 63% (118.35180000000001/185s)
-[1]Melira      |08:45:12 | 11-10-2026| music "うたかた": 69% (128.5137/185s)
-[1]Melira      |08:45:24 | 11-10-2026| music "うたかた": 74% (138.52530000000002/185s)
-[1]Melira      |08:45:36 | 11-10-2026| music "うたかた": 80% (149.3091/185s)
-[1]Melira      |08:45:36 | 11-10-2026| music "うたかた": selesai 149.3091s
-[1]Melira      |08:45:39 | 11-10-2026| music memutar "ぬくもり" (188s)...
-[1]Melira      |08:45:50 | 11-10-2026| music "ぬくもり": 4% (9.0063/188s)
-[1]Melira      |08:46:02 | 11-10-2026| music "ぬくもり": 10% (18.910800000000002/188s)
-[1]Melira      |08:46:13 | 11-10-2026| music "ぬくもり": 15% (29.2968/188s)
-[1]Melira      |08:46:25 | 11-10-2026| music "ぬくもり": 20% (39.2175/188s)
-[1]Melira      |08:46:36 | 11-10-2026| music "ぬくもり": 26% (50.0904/188s)
-[1]Melira      |08:46:47 | 11-10-2026| music "ぬくもり": 31% (59.9022/188s)
-[1]Melira      |08:46:58 | 11-10-2026| music "ぬくもり": 37% (69.7176/188s)
-[1]Melira      |08:47:11 | 11-10-2026| music "ぬくもり": 42% (80.44470000000001/188s)
-[1]Melira      |08:47:22 | 11-10-2026| music "ぬくもり": 48% (91.9899/188s)
-[1]Melira      |08:47:36 | 11-10-2026| music "ぬくもり": 54% (101.997/188s)
-[1]Melira      |08:47:49 | 11-10-2026| music "ぬくもり": 60% (113.7969/188s)
-[1]Melira      |08:47:59 | 11-10-2026| music 9bb6c6d9-3494-4886-87a4-ea3cc34b0108: heartbeat GAGAL http=503, stop trek
-[1]Melira      |08:47:59 | 11-10-2026| music "ぬくもり": selesai 125.6355s
-[1]Melira      |08:47:59 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Melira      |08:47:59 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Melira      |16:37:04 | 12-10-2026| music memutar "ぬくもり" (188s)...
+[1]Melira      |16:37:15 | 12-10-2026| music "ぬくもり": 4% (9.0045/188s)
+[1]Melira      |16:37:27 | 12-10-2026| music "ぬくもり": 10% (19.315800000000003/188s)
+[1]Melira      |16:37:38 | 12-10-2026| music "ぬくもり": 15% (29.6244/188s)
+[1]Melira      |16:37:49 | 12-10-2026| music "ぬくもり": 21% (39.6837/188s)
+[1]Melira      |16:38:01 | 12-10-2026| music "ぬくもり": 26% (50.0535/188s)
+[1]Melira      |16:38:12 | 12-10-2026| music "ぬくもり": 32% (60.354/188s)
+[1]Melira      |16:38:23 | 12-10-2026| music "ぬくもり": 37% (70.4664/188s)
+[1]Melira      |16:38:35 | 12-10-2026| music "ぬくもり": 42% (80.6715/188s)
+[1]Melira      |16:38:46 | 12-10-2026| music "ぬくもり": 48% (90.8316/188s)
+[1]Melira      |16:38:57 | 12-10-2026| music "ぬくもり": 53% (101.1942/188s)
+[1]Melira      |16:39:09 | 12-10-2026| music "ぬくもり": 59% (111.2787/188s)
+[1]Melira      |16:39:21 | 12-10-2026| music "ぬくもり": 64% (121.3272/188s)
+[1]Melira      |16:39:32 | 12-10-2026| music "ぬくもり": 70% (132.2784/188s)
+[1]Melira      |16:39:44 | 12-10-2026| music "ぬくもり": 75% (142.50060000000002/188s)
+[1]Melira      |16:39:55 | 12-10-2026| music "ぬくもり": 81% (152.8848/188s)
+[1]Melira      |16:39:56 | 12-10-2026| music "ぬくもり": selesai 152.8848s
+[1]Melira      |16:39:59 | 12-10-2026| music memutar "桃色の頃" (213s)...
+[1]Melira      |16:40:11 | 12-10-2026| music "桃色の頃": 4% (9.001800000000001/213s)
+[1]Melira      |16:40:22 | 12-10-2026| music "桃色の頃": 9% (19.6209/213s)
+[1]Melira      |16:40:34 | 12-10-2026| music "桃色の頃": 13% (29.766599999999997/213s)
+[1]Melira      |16:40:46 | 12-10-2026| music "桃色の頃": 19% (40.642199999999995/213s)
+[1]Melira      |16:40:57 | 12-10-2026| music "桃色の頃": 23% (51.114599999999996/213s)
+[1]Melira      |16:41:08 | 12-10-2026| music "桃色の頃": 28% (61.3026/213s)
+[1]Melira      |16:41:20 | 12-10-2026| music "桃色の頃": 33% (71.2998/213s)
+[1]Melira      |16:41:31 | 12-10-2026| music "桃色の頃": 38% (81.77130000000001/213s)
+[1]Melira      |16:41:43 | 12-10-2026| music "桃色の頃": 43% (92.18430000000001/213s)
+[1]Melira      |16:41:55 | 12-10-2026| music "桃色の頃": 48% (102.5433/213s)
+[1]Melira      |16:42:06 | 12-10-2026| music "桃色の頃": 53% (113.2209/213s)
+[1]Melira      |16:42:17 | 12-10-2026| music "桃色の頃": 57% (123.3414/213s)
+[1]Melira      |16:42:30 | 12-10-2026| music "桃色の頃": 62% (133.4313/213s)
+[1]Melira      |16:42:41 | 12-10-2026| music "桃色の頃": 67% (144.6471/213s)
+[1]Melira      |16:42:53 | 12-10-2026| music "桃色の頃": 72% (154.73069999999998/213s)
+[1]Melira      |16:43:04 | 12-10-2026| music "桃色の頃": 77% (165.1635/213s)
+[1]Melira      |16:43:16 | 12-10-2026| music "桃色の頃": 82% (175.2066/213s)
+[1]Melira      |16:43:17 | 12-10-2026| music "桃色の頃": selesai 175.2066s
+[1]Melira      |16:43:20 | 12-10-2026| music memutar "記憶の名前" (224s)...
+[1]Melira      |16:43:31 | 12-10-2026| music "記憶の名前": 4% (9.001800000000001/224s)
+[1]Melira      |16:43:42 | 12-10-2026| music "記憶の名前": 8% (19.308600000000002/224s)
+[1]Melira      |16:43:54 | 12-10-2026| music "記憶の名前": 13% (29.6289/224s)
+[1]Melira      |16:44:05 | 12-10-2026| music "記憶の名前": 17% (40.2768/224s)
+[1]Melira      |16:44:18 | 12-10-2026| music "記憶の名前": 22% (50.3568/224s)
+[1]Melira      |16:44:30 | 12-10-2026| music "記憶の名前": 27% (61.6788/224s)
+[1]Melira      |16:44:41 | 12-10-2026| music "記憶の名前": 32% (72.0243/224s)
+[1]Melira      |16:44:53 | 12-10-2026| music "記憶の名前": 36% (82.3806/224s)
+[1]Melira      |16:45:05 | 12-10-2026| music "記憶の名前": 41% (93.0933/224s)
+[1]Melira      |16:45:16 | 12-10-2026| music "記憶の名前": 46% (103.4982/224s)
+[1]Melira      |16:45:28 | 12-10-2026| music "記憶の名前": 50% (113.9031/224s)
+[1]Melira      |16:45:41 | 12-10-2026| music "記憶の名前": 55% (124.2918/224s)
+[1]Melira      |16:45:53 | 12-10-2026| music "記憶の名前": 60% (136.06109999999998/224s)
+[1]Melira      |16:46:04 | 12-10-2026| music "記憶の名前": 65% (146.7549/224s)
+[1]Melira      |16:46:16 | 12-10-2026| music "記憶の名前": 70% (157.20749999999998/224s)
+[1]Melira      |16:46:27 | 12-10-2026| music "記憶の名前": 74% (167.3919/224s)
+[1]Melira      |16:46:38 | 12-10-2026| music "記憶の名前": 79% (177.61769999999999/224s)
+[1]Melira      |16:46:50 | 12-10-2026| music "記憶の名前": 83% (187.7967/224s)
+[1]Melira      |16:46:50 | 12-10-2026| music "記憶の名前": selesai 187.7967s
+[1]Melira      |16:46:53 | 12-10-2026| music memutar "Smart Pocket" (232s)...
+[1]Melira      |16:47:05 | 12-10-2026| music "Smart Pocket": 3% (9.0027/232s)
+[1]Melira      |16:47:16 | 12-10-2026| music "Smart Pocket": 8% (19.500300000000003/232s)
+[1]Melira      |16:47:28 | 12-10-2026| music "Smart Pocket": 12% (29.906100000000002/232s)
+[1]Melira      |16:47:39 | 12-10-2026| music "Smart Pocket": 17% (40.0383/232s)
+[1]Melira      |16:47:50 | 12-10-2026| music "Smart Pocket": 21% (50.1714/232s)
+[1]Melira      |16:48:02 | 12-10-2026| music "Smart Pocket": 26% (60.5772/232s)
+[1]Melira      |16:48:13 | 12-10-2026| music "Smart Pocket": 30% (70.78139999999999/232s)
+[1]Melira      |16:48:25 | 12-10-2026| music "Smart Pocket": 34% (80.86769999999999/232s)
+[1]Melira      |16:48:36 | 12-10-2026| music "Smart Pocket": 39% (91.57679999999999/232s)
+[1]Melira      |16:48:48 | 12-10-2026| music "Smart Pocket": 43% (101.70809999999999/232s)
+[1]Melira      |16:49:00 | 12-10-2026| music "Smart Pocket": 48% (112.54139999999998/232s)
+[1]Melira      |16:49:11 | 12-10-2026| music "Smart Pocket": 53% (123.04709999999999/232s)
+[1]Melira      |16:49:23 | 12-10-2026| music "Smart Pocket": 57% (133.3782/232s)
+[1]Melira      |16:49:34 | 12-10-2026| music "Smart Pocket": 61% (143.6085/232s)
+[1]Melira      |16:49:46 | 12-10-2026| music "Smart Pocket": 66% (154.13129999999998/232s)
+[1]Melira      |16:49:57 | 12-10-2026| music "Smart Pocket": 70% (164.50019999999998/232s)
+[1]Melira      |16:50:09 | 12-10-2026| music "Smart Pocket": 75% (174.86549999999997/232s)
+[1]Melira      |16:50:20 | 12-10-2026| music "Smart Pocket": 79% (185.29469999999998/232s)
+[1]Melira      |16:50:33 | 12-10-2026| music "Smart Pocket": 84% (195.41519999999997/232s)
+[1]Melira      |16:50:33 | 12-10-2026| music "Smart Pocket": selesai 195.41519999999997s
+[1]Melira      |16:50:36 | 12-10-2026| music memutar "神様みたいに" (254s)...
+[1]Melira      |16:50:48 | 12-10-2026| music "神様みたいに": 3% (9.0036/254s)
+[1]Melira      |16:51:00 | 12-10-2026| music "神様みたいに": 7% (19.5102/254s)
+[1]Melira      |16:51:11 | 12-10-2026| music "神様みたいに": 11% (30.1464/254s)
+[1]Melira      |16:51:22 | 12-10-2026| music "神様みたいに": 15% (40.2345/254s)
+[1]Melira      |16:51:33 | 12-10-2026| music "神様みたいに": 19% (50.6457/254s)
+[1]Melira      |16:51:45 | 12-10-2026| music "神様みたいに": 23% (60.7059/254s)
+[1]Melira      |16:51:57 | 12-10-2026| music "神様みたいに": 28% (71.37989999999999/254s)
+[1]Melira      |16:52:09 | 12-10-2026| music "神様みたいに": 32% (81.8937/254s)
+[1]Melira      |16:52:21 | 12-10-2026| music "神様みたいに": 36% (92.9664/254s)
+[1]Melira      |16:52:32 | 12-10-2026| music "神様みたいに": 40% (103.122/254s)
+[1]Melira      |16:52:43 | 12-10-2026| music "神様みたいに": 44% (113.20830000000001/254s)
+[1]Melira      |16:52:55 | 12-10-2026| music "神様みたいに": 48% (123.62580000000001/254s)
+[1]Melira      |16:53:07 | 12-10-2026| music "神様みたいに": 52% (134.3583/254s)
+[1]Melira      |16:53:18 | 12-10-2026| music "神様みたいに": 57% (144.7803/254s)
+[1]Melira      |16:53:30 | 12-10-2026| music "神様みたいに": 60% (154.899/254s)
+[1]Melira      |16:53:41 | 12-10-2026| music "神様みたいに": 65% (165.5883/254s)
+[1]Melira      |16:53:53 | 12-10-2026| music "神様みたいに": 69% (175.7862/254s)
+[1]Melira      |16:54:04 | 12-10-2026| music "神様みたいに": 73% (186.2424/254s)
+[1]Melira      |16:54:16 | 12-10-2026| music "神様みたいに": 77% (196.4304/254s)
+[1]Melira      |16:54:28 | 12-10-2026| music "神様みたいに": 81% (207.2133/254s)
+[1]Melira      |16:54:28 | 12-10-2026| music "神様みたいに": selesai 207.2133s
+[1]Melira      |16:54:31 | 12-10-2026| music memutar "せーので、飛ぼう！" (269s)...
+[1]Melira      |16:54:43 | 12-10-2026| music "せーので、飛ぼう！": 3% (9.0063/269s)
+[1]Melira      |16:54:54 | 12-10-2026| music "せーので、飛ぼう！": 7% (19.3032/269s)
+[1]Melira      |16:55:06 | 12-10-2026| music "せーので、飛ぼう！": 11% (29.8215/269s)
+[1]Melira      |16:55:18 | 12-10-2026| music "せーので、飛ぼう！": 14% (40.338/269s)
+[1]Melira      |16:55:29 | 12-10-2026| music "せーので、飛ぼう！": 18% (50.8095/269s)
+[1]Melira      |16:55:41 | 12-10-2026| music "せーので、飛ぼう！": 22% (60.8517/269s)
+[1]Melira      |16:55:52 | 12-10-2026| music "せーので、飛ぼう！": 26% (71.4915/269s)
+[1]Melira      |16:56:04 | 12-10-2026| music "せーので、飛ぼう！": 30% (81.5634/269s)
+[1]Melira      |16:56:16 | 12-10-2026| music "せーので、飛ぼう！": 34% (92.74770000000001/269s)
+[1]Melira      |16:56:28 | 12-10-2026| music "せーので、飛ぼう！": 38% (103.72050000000002/269s)
+[1]Melira      |16:56:40 | 12-10-2026| music "せーので、飛ぼう！": 42% (114.32160000000002/269s)
+[1]Melira      |16:56:51 | 12-10-2026| music "せーので、飛ぼう！": 46% (124.78230000000002/269s)
+[1]Melira      |16:57:03 | 12-10-2026| music "せーので、飛ぼう！": 50% (135.13500000000002/269s)
+[1]Melira      |16:57:15 | 12-10-2026| music "せーので、飛ぼう！": 54% (145.80900000000003/269s)
+[1]Melira      |16:57:26 | 12-10-2026| music "せーので、飛ぼう！": 58% (156.37590000000003/269s)
+[1]Melira      |16:57:39 | 12-10-2026| music "せーので、飛ぼう！": 61% (166.47660000000002/269s)
+[1]Melira      |16:57:50 | 12-10-2026| music "せーので、飛ぼう！": 66% (177.8283/269s)
+[1]Melira      |16:58:02 | 12-10-2026| music "せーので、飛ぼう！": 70% (188.3502/269s)
+[1]Melira      |16:58:28 | 12-10-2026| music "せーので、飛ぼう！": 73% (198.5265/269s)
+[1]Melira      |16:58:39 | 12-10-2026| music "せーので、飛ぼう！": 82% (222.3486/269s)
+[1]Melira      |16:58:40 | 12-10-2026| music "せーので、飛ぼう！": 80% belum counted, lanjut ke 100%...
+[1]Melira      |16:58:52 | 12-10-2026| music "せーので、飛ぼう！": 86% (233.1396/269s)
+[1]Melira      |16:59:04 | 12-10-2026| music "せーので、飛ぼう！": 90% (243.5067/269s)
+[1]Melira      |16:59:15 | 12-10-2026| music "せーので、飛ぼう！": 94% (254.4651/269s)
+[1]Melira      |16:59:26 | 12-10-2026| music "せーので、飛ぼう！": 98% (264.5604/269s)
+[1]Melira      |16:59:38 | 12-10-2026| music "せーので、飛ぼう！": 100% (269/269s)
+[1]Melira      |16:59:38 | 12-10-2026| music "せーので、飛ぼう！": selesai 269s
+[1]Melira      |16:59:41 | 12-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
+[1]Melira      |16:59:52 | 12-10-2026| music "ON CHAIN NEXUS": 3% (9.0054/276s)
+[1]Melira      |17:00:03 | 12-10-2026| music "ON CHAIN NEXUS": 6% (19.1817/276s)
+[1]Melira      |17:00:15 | 12-10-2026| music "ON CHAIN NEXUS": 10% (29.3031/276s)
+[1]Melira      |17:00:26 | 12-10-2026| music "ON CHAIN NEXUS": 14% (39.9798/276s)
+[1]Melira      |17:00:38 | 12-10-2026| music "ON CHAIN NEXUS": 18% (50.0346/276s)
+[1]Melira      |17:00:52 | 12-10-2026| music "ON CHAIN NEXUS": 21% (60.119099999999996/276s)
+[1]Melira      |17:01:03 | 12-10-2026| music "ON CHAIN NEXUS": 26% (73.0899/276s)
+[1]Melira      |17:01:16 | 12-10-2026| music "ON CHAIN NEXUS": 30% (83.23740000000001/276s)
+[1]Melira      |17:01:27 | 12-10-2026| music "ON CHAIN NEXUS": 34% (94.46220000000001/276s)
+[1]Melira      |17:01:38 | 12-10-2026| music "ON CHAIN NEXUS": 37% (104.61690000000002/276s)
+[1]Melira      |17:01:50 | 12-10-2026| music "ON CHAIN NEXUS": 41% (114.67530000000002/276s)
+[1]Melira      |17:02:02 | 12-10-2026| music "ON CHAIN NEXUS": 45% (125.69940000000003/276s)
+[1]Melira      |17:02:14 | 12-10-2026| music "ON CHAIN NEXUS": 49% (135.94950000000003/276s)
+[1]Melira      |17:02:25 | 12-10-2026| music "ON CHAIN NEXUS": 53% (146.66580000000002/276s)
+[1]Melira      |17:02:38 | 12-10-2026| music "ON CHAIN NEXUS": 56% (156.91140000000001/276s)
+[1]Melira      |17:02:49 | 12-10-2026| music "ON CHAIN NEXUS": 60% (168.23700000000002/276s)
+[1]Melira      |17:03:01 | 12-10-2026| music "ON CHAIN NEXUS": 64% (178.31700000000004/276s)
+[1]Melira      |17:03:13 | 12-10-2026| music "ON CHAIN NEXUS": 68% (188.90010000000004/276s)
+[1]Melira      |17:03:25 | 12-10-2026| music "ON CHAIN NEXUS": 72% (200.37240000000003/276s)
+[1]Melira      |17:03:36 | 12-10-2026| music "ON CHAIN NEXUS": 76% (210.82950000000002/276s)
+[1]Melira      |17:03:48 | 12-10-2026| music "ON CHAIN NEXUS": 80% (220.9302/276s)
+[1]Melira      |17:03:59 | 12-10-2026| music "ON CHAIN NEXUS": 83% (231.246/276s)
+[1]Melira      |17:03:59 | 12-10-2026| music "ON CHAIN NEXUS": selesai 231.246s
+[1]Melira      |17:04:01 | 12-10-2026| music: kedua misi sudah tercapai, stop
+[1]Melira      |17:04:03 | 12-10-2026| mission music-listens-10: CLAIM OK +10 poin
+[1]Melira      |17:04:07 | 12-10-2026| mission music-minutes-30: CLAIM OK +10 poin
+[1]Melira      |17:04:11 | 12-10-2026| mission anime-completed-3: CLAIM OK +10 poin
 --> [1]Melira menjalankan: Claim Missions
-[1]Melira      |08:47:59 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Melira      |17:04:15 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Melira      |17:04:15 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Melira      |17:04:15 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Melira menjalankan: Check Eligibility
 
 --- eligibility [1]Melira ---
-  @melirakinasa | score=860 rank=6769
-  tasks    [###################-] 73/76
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @melirakinasa | score=950 rank=6446
+  tasks    [##################--] 70/80
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Melira menjalankan: Read Manga
-[1]Melira      |08:48:00 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Melira      |17:04:20 | 12-10-2026| manga: 13/13 chapter belum completed
+[1]Melira      |17:04:20 | 12-10-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Melira      |17:04:26 | 12-10-2026| manga ch1 (1): page 1/19 (5%) 0s
+[1]Melira      |17:04:31 | 12-10-2026| manga ch1 (1): page 2/19 (10%) 5s
+[1]Melira      |17:04:36 | 12-10-2026| manga ch1 (1): page 3/19 (15%) 10s
+[1]Melira      |17:04:40 | 12-10-2026| manga ch1 (1): page 4/19 (21%) 15s
+[1]Melira      |17:04:45 | 12-10-2026| manga ch1 (1): page 5/19 (26%) 19s
+[1]Melira      |17:04:51 | 12-10-2026| manga ch1 (1): page 6/19 (31%) 24s
+[1]Melira      |17:04:55 | 12-10-2026| manga ch1 (1): page 7/19 (36%) 30s
+[1]Melira      |17:05:00 | 12-10-2026| manga ch1 (1): page 8/19 (42%) 34s
+[1]Melira      |17:05:05 | 12-10-2026| manga ch1 (1): page 9/19 (47%) 39s
+[1]Melira      |17:05:10 | 12-10-2026| manga ch1 (1): page 10/19 (52%) 44s
+[1]Melira      |17:05:15 | 12-10-2026| manga ch1 (1): page 11/19 (57%) 48s
+[1]Melira      |17:05:20 | 12-10-2026| manga ch1 (1): page 12/19 (63%) 53s
+[1]Melira      |17:05:24 | 12-10-2026| manga ch1 (1): page 13/19 (68%) 58s
+[1]Melira      |17:05:29 | 12-10-2026| manga ch1 (1): page 14/19 (73%) 63s
+[1]Melira      |17:05:34 | 12-10-2026| manga ch1 (1): page 15/19 (78%) 68s
+[1]Melira      |17:05:39 | 12-10-2026| manga ch1 (1): page 16/19 (84%) 73s
+[1]Melira      |17:05:44 | 12-10-2026| manga ch1 (1): page 17/19 (89%) 78s
+[1]Melira      |17:05:49 | 12-10-2026| manga ch1 (1): page 18/19 (94%) 83s
+[1]Melira      |17:05:55 | 12-10-2026| manga ch1 (1): page 19/19 (99%) 88s
+[1]Melira      |17:06:00 | 12-10-2026| manga ch1 (1): COMPLETED
+[1]Melira      |17:06:03 | 12-10-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Melira      |17:06:08 | 12-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
+[1]Melira      |17:06:13 | 12-10-2026| manga ch2 (450001): page 2/18 (11%) 5s
+[1]Melira      |17:06:18 | 12-10-2026| manga ch2 (450001): page 3/18 (16%) 10s
+[1]Melira      |17:06:23 | 12-10-2026| manga ch2 (450001): page 4/18 (22%) 14s
+[1]Melira      |17:06:27 | 12-10-2026| manga ch2 (450001): page 5/18 (27%) 19s
+[1]Melira      |17:06:32 | 12-10-2026| manga ch2 (450001): page 6/18 (33%) 24s
+[1]Melira      |17:06:37 | 12-10-2026| manga ch2 (450001): page 7/18 (38%) 28s
+[1]Melira      |17:06:42 | 12-10-2026| manga ch2 (450001): page 8/18 (44%) 33s
+[1]Melira      |17:06:46 | 12-10-2026| manga ch2 (450001): page 9/18 (50%) 38s
+[1]Melira      |17:06:51 | 12-10-2026| manga ch2 (450001): page 10/18 (55%) 43s
+[1]Melira      |17:06:56 | 12-10-2026| manga ch2 (450001): page 11/18 (61%) 47s
+[1]Melira      |17:07:01 | 12-10-2026| manga ch2 (450001): page 12/18 (66%) 52s
+[1]Melira      |17:07:06 | 12-10-2026| manga ch2 (450001): page 13/18 (72%) 57s
+[1]Melira      |17:07:10 | 12-10-2026| manga ch2 (450001): page 14/18 (77%) 62s
+[1]Melira      |17:07:15 | 12-10-2026| manga ch2 (450001): page 15/18 (83%) 67s
+[1]Melira      |17:07:21 | 12-10-2026| manga ch2 (450001): page 16/18 (88%) 72s
+[1]Melira      |17:07:26 | 12-10-2026| manga ch2 (450001): page 17/18 (94%) 78s
+[1]Melira      |17:07:31 | 12-10-2026| manga ch2 (450001): page 18/18 (99%) 82s
+[1]Melira      |17:07:36 | 12-10-2026| manga ch2 (450001): COMPLETED
+[1]Melira      |17:07:39 | 12-10-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Melira      |17:08:01 | 12-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
+[1]Melira      |17:08:06 | 12-10-2026| manga ch3 (2160001): page 2/17 (11%) 10s
+[1]Melira      |17:08:10 | 12-10-2026| manga ch3 (2160001): page 3/17 (17%) 15s
+[1]Melira      |17:08:15 | 12-10-2026| manga ch3 (2160001): page 4/17 (23%) 20s
+[1]Melira      |17:08:20 | 12-10-2026| manga ch3 (2160001): page 5/17 (29%) 25s
+[1]Melira      |17:08:25 | 12-10-2026| manga ch3 (2160001): page 6/17 (35%) 30s
+[1]Melira      |17:08:29 | 12-10-2026| manga ch3 (2160001): page 7/17 (41%) 34s
+[1]Melira      |17:08:34 | 12-10-2026| manga ch3 (2160001): page 8/17 (47%) 39s
+[1]Melira      |17:08:39 | 12-10-2026| manga ch3 (2160001): page 9/17 (52%) 44s
+[1]Melira      |17:08:44 | 12-10-2026| manga ch3 (2160001): page 10/17 (58%) 49s
+[1]Melira      |17:08:49 | 12-10-2026| manga ch3 (2160001): page 11/17 (64%) 53s
+[1]Melira      |17:08:54 | 12-10-2026| manga ch3 (2160001): page 12/17 (70%) 58s
+[1]Melira      |17:08:59 | 12-10-2026| manga ch3 (2160001): page 13/17 (76%) 64s
+[1]Melira      |17:09:04 | 12-10-2026| manga ch3 (2160001): page 14/17 (82%) 69s
+[1]Melira      |17:09:09 | 12-10-2026| manga ch3 (2160001): page 15/17 (88%) 74s
+[1]Melira      |17:09:13 | 12-10-2026| manga ch3 (2160001): page 16/17 (94%) 78s
+[1]Melira      |17:09:18 | 12-10-2026| manga ch3 (2160001): page 17/17 (99%) 83s
+[1]Melira      |17:09:23 | 12-10-2026| manga ch3 (2160001): COMPLETED
+[1]Melira      |17:09:26 | 12-10-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Melira      |17:09:32 | 12-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
+[1]Melira      |17:09:36 | 12-10-2026| manga ch4 (2400001): page 2/17 (11%) 5s
+[1]Melira      |17:09:41 | 12-10-2026| manga ch4 (2400001): page 3/17 (17%) 9s
+[1]Melira      |17:09:46 | 12-10-2026| manga ch4 (2400001): page 4/17 (23%) 14s
+[1]Melira      |17:09:50 | 12-10-2026| manga ch4 (2400001): page 5/17 (29%) 19s
+[1]Melira      |17:09:55 | 12-10-2026| manga ch4 (2400001): page 6/17 (35%) 23s
+[1]Melira      |17:10:00 | 12-10-2026| manga ch4 (2400001): page 7/17 (41%) 28s
+[1]Melira      |17:10:05 | 12-10-2026| manga ch4 (2400001): page 8/17 (47%) 33s
+[1]Melira      |17:10:10 | 12-10-2026| manga ch4 (2400001): page 9/17 (52%) 38s
+[1]Melira      |17:10:14 | 12-10-2026| manga ch4 (2400001): page 10/17 (58%) 43s
+[1]Melira      |17:10:19 | 12-10-2026| manga ch4 (2400001): page 11/17 (64%) 47s
+[1]Melira      |17:10:24 | 12-10-2026| manga ch4 (2400001): page 12/17 (70%) 52s
+[1]Melira      |17:10:28 | 12-10-2026| manga ch4 (2400001): page 13/17 (76%) 57s
+[1]Melira      |17:10:33 | 12-10-2026| manga ch4 (2400001): page 14/17 (82%) 61s
+[1]Melira      |17:10:39 | 12-10-2026| manga ch4 (2400001): page 15/17 (88%) 66s
+[1]Melira      |17:10:43 | 12-10-2026| manga ch4 (2400001): page 16/17 (94%) 72s
+[1]Melira      |17:10:48 | 12-10-2026| manga ch4 (2400001): page 17/17 (99%) 76s
+[1]Melira      |17:10:53 | 12-10-2026| manga ch4 (2400001): COMPLETED
+[1]Melira      |17:10:56 | 12-10-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Melira      |17:11:02 | 12-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
+[1]Melira      |17:11:07 | 12-10-2026| manga ch5 (2490001): page 2/18 (11%) 5s
+[1]Melira      |17:11:11 | 12-10-2026| manga ch5 (2490001): page 3/18 (16%) 10s
+[1]Melira      |17:11:16 | 12-10-2026| manga ch5 (2490001): page 4/18 (22%) 14s
+[1]Melira      |17:11:21 | 12-10-2026| manga ch5 (2490001): page 5/18 (27%) 19s
+[1]Melira      |17:11:25 | 12-10-2026| manga ch5 (2490001): page 6/18 (33%) 24s
+[1]Melira      |17:11:30 | 12-10-2026| manga ch5 (2490001): page 7/18 (38%) 29s
+[1]Melira      |17:11:35 | 12-10-2026| manga ch5 (2490001): page 8/18 (44%) 33s
+[1]Melira      |17:11:40 | 12-10-2026| manga ch5 (2490001): page 9/18 (50%) 38s
+[1]Melira      |17:11:45 | 12-10-2026| manga ch5 (2490001): page 10/18 (55%) 43s
+[1]Melira      |17:11:50 | 12-10-2026| manga ch5 (2490001): page 11/18 (61%) 48s
+[1]Melira      |17:11:55 | 12-10-2026| manga ch5 (2490001): page 12/18 (66%) 53s
+[1]Melira      |17:12:01 | 12-10-2026| manga ch5 (2490001): page 13/18 (72%) 58s
+[1]Melira      |17:12:06 | 12-10-2026| manga ch5 (2490001): page 14/18 (77%) 64s
+[1]Melira      |17:12:11 | 12-10-2026| manga ch5 (2490001): page 15/18 (83%) 69s
+[1]Melira      |17:12:15 | 12-10-2026| manga ch5 (2490001): page 16/18 (88%) 74s
+[1]Melira      |17:12:20 | 12-10-2026| manga ch5 (2490001): page 17/18 (94%) 78s
+[1]Melira      |17:12:25 | 12-10-2026| manga ch5 (2490001): page 18/18 (99%) 83s
+[1]Melira      |17:12:30 | 12-10-2026| manga ch5 (2490001): COMPLETED
+[1]Melira      |17:12:33 | 12-10-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Melira      |17:12:40 | 12-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
+[1]Melira      |17:12:45 | 12-10-2026| manga ch6 (2610001): page 2/17 (11%) 5s
+[1]Melira      |17:12:50 | 12-10-2026| manga ch6 (2610001): page 3/17 (17%) 10s
+[1]Melira      |17:12:55 | 12-10-2026| manga ch6 (2610001): page 4/17 (23%) 14s
+[1]Melira      |17:13:00 | 12-10-2026| manga ch6 (2610001): page 5/17 (29%) 19s
+[1]Melira      |17:13:04 | 12-10-2026| manga ch6 (2610001): page 6/17 (35%) 24s
+[1]Melira      |17:13:09 | 12-10-2026| manga ch6 (2610001): page 7/17 (41%) 29s
+[1]Melira      |17:13:15 | 12-10-2026| manga ch6 (2610001): page 8/17 (47%) 33s
+[1]Melira      |17:13:20 | 12-10-2026| manga ch6 (2610001): page 9/17 (52%) 40s
+[1]Melira      |17:13:24 | 12-10-2026| manga ch6 (2610001): page 10/17 (58%) 44s
+[1]Melira      |17:13:29 | 12-10-2026| manga ch6 (2610001): page 11/17 (64%) 49s
+[1]Melira      |17:13:34 | 12-10-2026| manga ch6 (2610001): page 12/17 (70%) 54s
+[1]Melira      |17:13:39 | 12-10-2026| manga ch6 (2610001): page 13/17 (76%) 58s
+[1]Melira      |17:13:43 | 12-10-2026| manga ch6 (2610001): page 14/17 (82%) 63s
+[1]Melira      |17:13:48 | 12-10-2026| manga ch6 (2610001): page 15/17 (88%) 68s
+[1]Melira      |17:13:53 | 12-10-2026| manga ch6 (2610001): page 16/17 (94%) 73s
+[1]Melira      |17:13:58 | 12-10-2026| manga ch6 (2610001): page 17/17 (99%) 77s
+[1]Melira      |17:14:02 | 12-10-2026| manga ch6 (2610001): COMPLETED
+[1]Melira      |17:14:05 | 12-10-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Melira      |17:14:11 | 12-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
+[1]Melira      |17:14:17 | 12-10-2026| manga ch1 (180003): page 2/21 (9%) 5s
+[1]Melira      |17:14:22 | 12-10-2026| manga ch1 (180003): page 3/21 (14%) 11s
+[1]Melira      |17:14:26 | 12-10-2026| manga ch1 (180003): page 4/21 (19%) 15s
+[1]Melira      |17:14:31 | 12-10-2026| manga ch1 (180003): page 5/21 (23%) 20s
+[1]Melira      |17:14:36 | 12-10-2026| manga ch1 (180003): page 6/21 (28%) 25s
+[1]Melira      |17:14:41 | 12-10-2026| manga ch1 (180003): page 7/21 (33%) 29s
+[1]Melira      |17:14:46 | 12-10-2026| manga ch1 (180003): page 8/21 (38%) 35s
+[1]Melira      |17:14:51 | 12-10-2026| manga ch1 (180003): page 9/21 (42%) 40s
+[1]Melira      |17:14:56 | 12-10-2026| manga ch1 (180003): page 10/21 (47%) 44s
+[1]Melira      |17:15:00 | 12-10-2026| manga ch1 (180003): page 11/21 (52%) 49s
+[1]Melira      |17:15:05 | 12-10-2026| manga ch1 (180003): page 12/21 (57%) 54s
+[1]Melira      |17:15:10 | 12-10-2026| manga ch1 (180003): page 13/21 (61%) 59s
+[1]Melira      |17:15:14 | 12-10-2026| manga ch1 (180003): page 14/21 (66%) 63s
+[1]Melira      |17:15:19 | 12-10-2026| manga ch1 (180003): page 15/21 (71%) 68s
+[1]Melira      |17:15:24 | 12-10-2026| manga ch1 (180003): page 16/21 (76%) 73s
+[1]Melira      |17:15:29 | 12-10-2026| manga ch1 (180003): page 17/21 (80%) 77s
+[1]Melira      |17:15:34 | 12-10-2026| manga ch1 (180003): page 18/21 (85%) 82s
+[1]Melira      |17:15:39 | 12-10-2026| manga ch1 (180003): page 19/21 (90%) 88s
+[1]Melira      |17:15:43 | 12-10-2026| manga ch1 (180003): page 20/21 (95%) 92s
+[1]Melira      |17:15:48 | 12-10-2026| manga ch1 (180003): page 21/21 (99%) 97s
+[1]Melira      |17:15:54 | 12-10-2026| manga ch1 (180003): COMPLETED
+[1]Melira      |17:15:57 | 12-10-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Melira      |17:16:03 | 12-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
+[1]Melira      |17:16:08 | 12-10-2026| manga ch2 (990005): page 2/18 (11%) 5s
+[1]Melira      |17:16:13 | 12-10-2026| manga ch2 (990005): page 3/18 (16%) 10s
+[1]Melira      |17:16:18 | 12-10-2026| manga ch2 (990005): page 4/18 (22%) 15s
+[1]Melira      |17:16:22 | 12-10-2026| manga ch2 (990005): page 5/18 (27%) 20s
+[1]Melira      |17:16:27 | 12-10-2026| manga ch2 (990005): page 6/18 (33%) 24s
+[1]Melira      |17:16:32 | 12-10-2026| manga ch2 (990005): page 7/18 (38%) 29s
+[1]Melira      |17:16:37 | 12-10-2026| manga ch2 (990005): page 8/18 (44%) 34s
+[1]Melira      |17:16:41 | 12-10-2026| manga ch2 (990005): page 9/18 (50%) 39s
+[1]Melira      |17:16:46 | 12-10-2026| manga ch2 (990005): page 10/18 (55%) 43s
+[1]Melira      |17:16:51 | 12-10-2026| manga ch2 (990005): page 11/18 (61%) 48s
+[1]Melira      |17:16:56 | 12-10-2026| manga ch2 (990005): page 12/18 (66%) 53s
+[1]Melira      |17:17:01 | 12-10-2026| manga ch2 (990005): page 13/18 (72%) 58s
+[1]Melira      |17:17:06 | 12-10-2026| manga ch2 (990005): page 14/18 (77%) 63s
+[1]Melira      |17:17:10 | 12-10-2026| manga ch2 (990005): page 15/18 (83%) 68s
+[1]Melira      |17:17:15 | 12-10-2026| manga ch2 (990005): page 16/18 (88%) 72s
+[1]Melira      |17:17:20 | 12-10-2026| manga ch2 (990005): page 17/18 (94%) 78s
+[1]Melira      |17:17:25 | 12-10-2026| manga ch2 (990005): page 18/18 (99%) 82s
+[1]Melira      |17:17:30 | 12-10-2026| manga ch2 (990005): COMPLETED
+[1]Melira      |17:17:33 | 12-10-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Melira      |17:17:45 | 12-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
+[1]Melira      |17:17:50 | 12-10-2026| manga ch3 (1980001): page 2/20 (10%) 5s
+[1]Melira      |17:17:55 | 12-10-2026| manga ch3 (1980001): page 3/20 (15%) 10s
+[1]Melira      |17:18:00 | 12-10-2026| manga ch3 (1980001): page 4/20 (20%) 15s
+[1]Melira      |17:18:04 | 12-10-2026| manga ch3 (1980001): page 5/20 (25%) 20s
+[1]Melira      |17:18:09 | 12-10-2026| manga ch3 (1980001): page 6/20 (30%) 25s
+[1]Melira      |17:18:15 | 12-10-2026| manga ch3 (1980001): page 7/20 (35%) 30s
+[1]Melira      |17:18:20 | 12-10-2026| manga ch3 (1980001): page 8/20 (40%) 35s
+[1]Melira      |17:18:25 | 12-10-2026| manga ch3 (1980001): page 9/20 (45%) 40s
+[1]Melira      |17:18:30 | 12-10-2026| manga ch3 (1980001): page 10/20 (50%) 45s
+[1]Melira      |17:18:35 | 12-10-2026| manga ch3 (1980001): page 11/20 (55%) 50s
+[1]Melira      |17:18:39 | 12-10-2026| manga ch3 (1980001): page 12/20 (60%) 55s
+[1]Melira      |17:18:44 | 12-10-2026| manga ch3 (1980001): page 13/20 (65%) 60s
+[1]Melira      |17:18:49 | 12-10-2026| manga ch3 (1980001): page 14/20 (70%) 65s
+[1]Melira      |17:18:54 | 12-10-2026| manga ch3 (1980001): page 15/20 (75%) 70s
+[1]Melira      |17:18:59 | 12-10-2026| manga ch3 (1980001): page 16/20 (80%) 75s
+[1]Melira      |17:19:04 | 12-10-2026| manga ch3 (1980001): page 17/20 (85%) 80s
+[1]Melira      |17:19:09 | 12-10-2026| manga ch3 (1980001): page 18/20 (90%) 84s
+[1]Melira      |17:19:13 | 12-10-2026| manga ch3 (1980001): page 19/20 (95%) 89s
+[1]Melira      |17:19:18 | 12-10-2026| manga ch3 (1980001): page 20/20 (99%) 94s
+[1]Melira      |17:19:23 | 12-10-2026| manga ch3 (1980001): COMPLETED
+[1]Melira      |17:19:26 | 12-10-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Melira      |17:19:33 | 12-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
+[1]Melira      |17:19:38 | 12-10-2026| manga ch1 (2100001): page 2/9 (22%) 6s
+[1]Melira      |17:19:43 | 12-10-2026| manga ch1 (2100001): page 3/9 (33%) 11s
+[1]Melira      |17:19:48 | 12-10-2026| manga ch1 (2100001): page 4/9 (44%) 16s
+[1]Melira      |17:19:52 | 12-10-2026| manga ch1 (2100001): page 5/9 (55%) 20s
+[1]Melira      |17:19:57 | 12-10-2026| manga ch1 (2100001): page 6/9 (66%) 25s
+[1]Melira      |17:20:02 | 12-10-2026| manga ch1 (2100001): page 7/9 (77%) 30s
+[1]Melira      |17:20:07 | 12-10-2026| manga ch1 (2100001): page 8/9 (88%) 35s
+[1]Melira      |17:20:12 | 12-10-2026| manga ch1 (2100001): page 9/9 (99%) 39s
+[1]Melira      |17:20:17 | 12-10-2026| manga ch1 (2100001): COMPLETED
+[1]Melira      |17:20:20 | 12-10-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Melira      |17:20:26 | 12-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
+[1]Melira      |17:20:31 | 12-10-2026| manga ch1 (2070001): page 2/10 (20%) 5s
+[1]Melira      |17:20:36 | 12-10-2026| manga ch1 (2070001): page 3/10 (30%) 10s
+[1]Melira      |17:20:41 | 12-10-2026| manga ch1 (2070001): page 4/10 (40%) 14s
+[1]Melira      |17:20:46 | 12-10-2026| manga ch1 (2070001): page 5/10 (50%) 19s
+[1]Melira      |17:20:50 | 12-10-2026| manga ch1 (2070001): page 6/10 (60%) 24s
+[1]Melira      |17:20:55 | 12-10-2026| manga ch1 (2070001): page 7/10 (70%) 29s
+[1]Melira      |17:21:00 | 12-10-2026| manga ch1 (2070001): page 8/10 (80%) 34s
+[1]Melira      |17:21:05 | 12-10-2026| manga ch1 (2070001): page 9/10 (90%) 38s
+[1]Melira      |17:21:10 | 12-10-2026| manga ch1 (2070001): page 10/10 (99%) 43s
+[1]Melira      |17:21:15 | 12-10-2026| manga ch1 (2070001): COMPLETED
+[1]Melira      |17:21:18 | 12-10-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Melira      |17:21:23 | 12-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
+[1]Melira      |17:21:28 | 12-10-2026| manga ch2 (2520001): page 2/11 (18%) 5s
+[1]Melira      |17:21:33 | 12-10-2026| manga ch2 (2520001): page 3/11 (27%) 9s
+[1]Melira      |17:21:38 | 12-10-2026| manga ch2 (2520001): page 4/11 (36%) 14s
+[1]Melira      |17:21:42 | 12-10-2026| manga ch2 (2520001): page 5/11 (45%) 19s
+[1]Melira      |17:21:47 | 12-10-2026| manga ch2 (2520001): page 6/11 (54%) 24s
+[1]Melira      |17:21:52 | 12-10-2026| manga ch2 (2520001): page 7/11 (63%) 28s
+[1]Melira      |17:21:56 | 12-10-2026| manga ch2 (2520001): page 8/11 (72%) 33s
+[1]Melira      |17:22:01 | 12-10-2026| manga ch2 (2520001): page 9/11 (81%) 38s
+[1]Melira      |17:22:06 | 12-10-2026| manga ch2 (2520001): page 10/11 (90%) 42s
+[1]Melira      |17:22:11 | 12-10-2026| manga ch2 (2520001): page 11/11 (99%) 47s
+[1]Melira      |17:22:15 | 12-10-2026| manga ch2 (2520001): COMPLETED
+[1]Melira      |17:22:18 | 12-10-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Melira      |17:22:25 | 12-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
+[1]Melira      |17:22:30 | 12-10-2026| manga ch3 (2550001): page 2/11 (18%) 5s
+[1]Melira      |17:22:36 | 12-10-2026| manga ch3 (2550001): page 3/11 (27%) 10s
+[1]Melira      |17:22:41 | 12-10-2026| manga ch3 (2550001): page 4/11 (36%) 16s
+[1]Melira      |17:22:45 | 12-10-2026| manga ch3 (2550001): page 5/11 (45%) 21s
+[1]Melira      |17:22:50 | 12-10-2026| manga ch3 (2550001): page 6/11 (54%) 25s
+[1]Melira      |17:22:55 | 12-10-2026| manga ch3 (2550001): page 7/11 (63%) 30s
+[1]Melira      |17:23:00 | 12-10-2026| manga ch3 (2550001): page 8/11 (72%) 35s
+[1]Melira      |17:23:05 | 12-10-2026| manga ch3 (2550001): page 9/11 (81%) 40s
+[1]Melira      |17:23:10 | 12-10-2026| manga ch3 (2550001): page 10/11 (90%) 45s
+[1]Melira      |17:23:15 | 12-10-2026| manga ch3 (2550001): page 11/11 (99%) 50s
+[1]Melira      |17:23:20 | 12-10-2026| manga ch3 (2550001): COMPLETED
 --> [1]Melira menjalankan: Get Gift
-[1]Melira      |08:48:00 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Melira      |17:23:23 | 12-10-2026| gift: 3/3 belum diterima
+[1]Melira      |17:23:24 | 12-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
+[1]Melira      |17:23:27 | 12-10-2026| gift [2/3] Osshi animated stickers: OK
+[1]Melira      |17:23:31 | 12-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
 --> [1]Melira menjalankan: Setup Profile
-[1]Melira      |08:48:00 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Melira      |17:23:33 | 12-10-2026| profile: bio="" fav=- rewardAt=-
+[1]Melira      |17:23:35 | 12-10-2026| profile: OK bio="https://x.com/melirakinasa" fav=oshi awarded=true +10pt
 --> [1]Melira menjalankan: Bind Wallet
-[1]Melira      |08:48:00 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Melira      |17:23:36 | 12-10-2026| wallet: derivasi dari privateKeySolana -> HtP9kGCJ2ecSnMSFgcuj87R4FAHGYWKWGYP9zeQFFCiJ (cek cocok dengan wallet kamu!)
+[1]Melira      |17:23:37 | 12-10-2026| wallet: /api/wallet OK (solana)
+[1]Melira      |17:23:38 | 12-10-2026| wallet: /api/sol-address OK
 
 == RINGKASAN ==
-- Melira: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+60pt) | watch 1/1 completed | musik 5 trek ~587.4687s | artikel 2 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
+- Melira: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 7 trek ~1418.7626s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
