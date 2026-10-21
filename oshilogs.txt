@@ -12,80 +12,149 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Melira =====
-[1]Melira      |07:09:30 | 20-10-2026| login OK @melirakinasa | score=1530 rank=4575
-[1]Melira      |07:09:30 | 20-10-2026| serverTime=2026-10-20T07:09:30.000Z local=2026-10-20T07:09:30.201Z
+[1]Melira      |08:26:10 | 21-10-2026| login OK @melirakinasa | score=1610 rank=4415
+[1]Melira      |08:26:10 | 21-10-2026| serverTime=2026-10-21T08:26:10.000Z local=2026-10-21T08:26:10.859Z
 --> [1]Melira menjalankan: Claim Daily
-[1]Melira      |07:09:31 | 20-10-2026| daily: OK +10 poin score=1540
---> [1]Melira menjalankan: Auto All Tasks (7 pending)
-[1]Melira      |07:09:33 | 20-10-2026| [1/7] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/melirakinasa/status/2112440768712283457
-[1]Melira      |07:09:33 | 20-10-2026| delay 10s...
-[1]Melira      |07:09:45 | 20-10-2026| [2/7] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/melirakinasa/status/2112440568394176485
-[1]Melira      |07:09:45 | 20-10-2026| delay 10s...
-[1]Melira      |07:09:57 | 20-10-2026| [3/7] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/melirakinasa/status/2112440698376740885
-[1]Melira      |07:09:57 | 20-10-2026| delay 10s...
-[1]Melira      |07:10:10 | 20-10-2026| [4/7] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/melirakinasa/status/2112440774798462343
-[1]Melira      |07:10:10 | 20-10-2026| delay 10s...
-[1]Melira      |07:10:30 | 20-10-2026| [5/7] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/melirakinasa/status/2112440906308196253
-[1]Melira      |07:10:30 | 20-10-2026| delay 10s...
-[1]Melira      |07:10:42 | 20-10-2026| [6/7] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/melirakinasa/status/2112440918726130249
-[1]Melira      |07:10:42 | 20-10-2026| delay 10s...
-[1]Melira      |07:10:54 | 20-10-2026| [7/7] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/melirakinasa/status/2112441110344003461
-[1]Melira      |07:10:54 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Melira      |07:10:56 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/melirakinasa/status/2112440918027756543
+[1]Melira      |08:26:12 | 21-10-2026| daily: OK +10 poin score=1620
+--> [1]Melira menjalankan: Auto All Tasks (6 pending)
+[1]Melira      |08:26:15 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/melirakinasa/status/2112822385466880542
+[1]Melira      |08:26:15 | 21-10-2026| delay 10s...
+[1]Melira      |08:26:28 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/melirakinasa/status/2112822332907651824
+[1]Melira      |08:26:28 | 21-10-2026| delay 10s...
+[1]Melira      |08:26:40 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/melirakinasa/status/2112822425920833471
+[1]Melira      |08:26:40 | 21-10-2026| delay 10s...
+[1]Melira      |08:26:54 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/melirakinasa/status/2112822529429927157
+[1]Melira      |08:26:54 | 21-10-2026| delay 10s...
+[1]Melira      |08:27:06 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/melirakinasa/status/2112822639491513919
+[1]Melira      |08:27:06 | 21-10-2026| delay 10s...
+[1]Melira      |08:27:19 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
+[1]Melira      |08:27:19 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Melira      |08:27:21 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/melirakinasa/status/2112822678596743259
 --> [1]Melira menjalankan: Watch Anime
-[1]Melira      |07:11:00 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Melira      |07:11:00 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Melira      |07:11:02 | 20-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Melira      |07:11:07 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Melira      |07:11:09 | 20-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Melira      |07:11:14 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Melira      |07:11:15 | 20-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Melira      |07:11:20 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Melira      |07:11:22 | 20-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Melira      |08:27:22 | 21-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Melira      |08:27:22 | 21-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Melira      |08:27:24 | 21-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Melira      |08:27:32 | 21-10-2026| watch oshi-captains-hat: 5% (5.44/92.00s)
+[1]Melira      |08:27:39 | 21-10-2026| watch oshi-captains-hat: 13% (12.06/92.00s)
+[1]Melira      |08:27:45 | 21-10-2026| watch oshi-captains-hat: 20% (18.43/92.00s)
+[1]Melira      |08:27:52 | 21-10-2026| watch oshi-captains-hat: 26% (24.37/92.00s)
+[1]Melira      |08:27:59 | 21-10-2026| watch oshi-captains-hat: 33% (30.67/92.00s)
+[1]Melira      |08:28:05 | 21-10-2026| watch oshi-captains-hat: 39% (36.69/92.00s)
+[1]Melira      |08:28:12 | 21-10-2026| watch oshi-captains-hat: 46% (42.38/92.00s)
+[1]Melira      |08:28:19 | 21-10-2026| watch oshi-captains-hat: 53% (48.78/92.00s)
+[1]Melira      |08:28:25 | 21-10-2026| watch oshi-captains-hat: 59% (54.57/92.00s)
+[1]Melira      |08:28:31 | 21-10-2026| watch oshi-captains-hat: 65% (60.27/92.00s)
+[1]Melira      |08:28:38 | 21-10-2026| watch oshi-captains-hat: 71% (66.17/92.00s)
+[1]Melira      |08:28:44 | 21-10-2026| watch oshi-captains-hat: 78% (72.21/92.00s)
+[1]Melira      |08:28:51 | 21-10-2026| watch oshi-captains-hat: 84% (77.84/92.00s)
+[1]Melira      |08:28:57 | 21-10-2026| watch oshi-captains-hat: 90% (83.66/92.00s)
+[1]Melira      |08:28:57 | 21-10-2026| watch oshi-captains-hat: COMPLETED (83.66/92.00s)
+[1]Melira      |08:29:02 | 21-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Melira      |08:29:05 | 21-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Melira      |08:29:11 | 21-10-2026| watch oshi-rainbow-star: 6% (5.49/86.00s)
+[1]Melira      |08:29:18 | 21-10-2026| watch oshi-rainbow-star: 12% (11.13/86.00s)
+[1]Melira      |08:29:25 | 21-10-2026| watch oshi-rainbow-star: 20% (17.37/86.00s)
+[1]Melira      |08:29:32 | 21-10-2026| watch oshi-rainbow-star: 27% (24.04/86.00s)
+[1]Melira      |08:29:38 | 21-10-2026| watch oshi-rainbow-star: 35% (30.26/86.00s)
+[1]Melira      |08:29:47 | 21-10-2026| watch oshi-rainbow-star: 41% (35.94/86.00s)
+[1]Melira      |08:29:53 | 21-10-2026| watch oshi-rainbow-star: 49% (42.78/86.00s)
+[1]Melira      |08:30:00 | 21-10-2026| watch oshi-rainbow-star: 57% (49.45/86.00s)
+[1]Melira      |08:30:07 | 21-10-2026| watch oshi-rainbow-star: 64% (55.35/86.00s)
+[1]Melira      |08:30:13 | 21-10-2026| watch oshi-rainbow-star: 71% (61.41/86.00s)
+[1]Melira      |08:30:20 | 21-10-2026| watch oshi-rainbow-star: 78% (67.40/86.00s)
+[1]Melira      |08:30:27 | 21-10-2026| watch oshi-rainbow-star: 85% (73.24/86.00s)
+[1]Melira      |08:30:33 | 21-10-2026| watch oshi-rainbow-star: 92% (79.41/86.00s)
+[1]Melira      |08:30:33 | 21-10-2026| watch oshi-rainbow-star: COMPLETED (79.41/86.00s)
+[1]Melira      |08:30:38 | 21-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Melira      |08:30:40 | 21-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Melira      |08:30:47 | 21-10-2026| watch oshi-rainbow-lighthouse: 6% (5.35/87.00s)
+[1]Melira      |08:30:53 | 21-10-2026| watch oshi-rainbow-lighthouse: 12% (11.27/87.00s)
+[1]Melira      |08:31:00 | 21-10-2026| watch oshi-rainbow-lighthouse: 19% (17.11/87.00s)
+[1]Melira      |08:31:07 | 21-10-2026| watch oshi-rainbow-lighthouse: 26% (22.98/87.00s)
+[1]Melira      |08:31:13 | 21-10-2026| watch oshi-rainbow-lighthouse: 33% (29.25/87.00s)
+[1]Melira      |08:31:20 | 21-10-2026| watch oshi-rainbow-lighthouse: 40% (35.16/87.00s)
+[1]Melira      |08:31:26 | 21-10-2026| watch oshi-rainbow-lighthouse: 46% (40.85/87.00s)
+[1]Melira      |08:31:33 | 21-10-2026| watch oshi-rainbow-lighthouse: 53% (46.55/87.00s)
+[1]Melira      |08:31:40 | 21-10-2026| watch oshi-rainbow-lighthouse: 60% (53.00/87.00s)
+[1]Melira      |08:31:46 | 21-10-2026| watch oshi-rainbow-lighthouse: 67% (58.86/87.00s)
+[1]Melira      |08:31:53 | 21-10-2026| watch oshi-rainbow-lighthouse: 74% (64.87/87.00s)
+[1]Melira      |08:32:00 | 21-10-2026| watch oshi-rainbow-lighthouse: 81% (71.13/87.00s)
+[1]Melira      |08:32:06 | 21-10-2026| watch oshi-rainbow-lighthouse: 88% (76.96/87.00s)
+[1]Melira      |08:32:13 | 21-10-2026| watch oshi-rainbow-lighthouse: 95% (82.83/87.00s)
+[1]Melira      |08:32:13 | 21-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (82.83/87.00s)
+[1]Melira      |08:32:18 | 21-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Melira      |08:32:21 | 21-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Melira      |08:32:28 | 21-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.40/181.00s)
+[1]Melira      |08:32:35 | 21-10-2026| watch bakeru-ikesou-jan-mv: 6% (11.84/181.00s)
+[1]Melira      |08:32:42 | 21-10-2026| watch bakeru-ikesou-jan-mv: 10% (18.46/181.00s)
+[1]Melira      |08:32:48 | 21-10-2026| watch bakeru-ikesou-jan-mv: 13% (24.74/181.00s)
+[1]Melira      |08:32:55 | 21-10-2026| watch bakeru-ikesou-jan-mv: 16% (30.41/181.00s)
+[1]Melira      |08:33:02 | 21-10-2026| watch bakeru-ikesou-jan-mv: 20% (36.59/181.00s)
+[1]Melira      |08:33:08 | 21-10-2026| watch bakeru-ikesou-jan-mv: 23% (42.78/181.00s)
+[1]Melira      |08:33:15 | 21-10-2026| watch bakeru-ikesou-jan-mv: 26% (48.50/181.00s)
+[1]Melira      |08:33:22 | 21-10-2026| watch bakeru-ikesou-jan-mv: 29% (54.20/181.00s)
+[1]Melira      |08:33:28 | 21-10-2026| watch bakeru-ikesou-jan-mv: 33% (60.36/181.00s)
+[1]Melira      |08:33:35 | 21-10-2026| watch bakeru-ikesou-jan-mv: 36% (66.29/181.00s)
+[1]Melira      |08:33:42 | 21-10-2026| watch bakeru-ikesou-jan-mv: 39% (72.34/181.00s)
+[1]Melira      |08:33:48 | 21-10-2026| watch bakeru-ikesou-jan-mv: 43% (78.40/181.00s)
+[1]Melira      |08:33:56 | 21-10-2026| watch bakeru-ikesou-jan-mv: 46% (84.43/181.00s)
+[1]Melira      |08:34:02 | 21-10-2026| watch bakeru-ikesou-jan-mv: 50% (91.08/181.00s)
+[1]Melira      |08:34:09 | 21-10-2026| watch bakeru-ikesou-jan-mv: 53% (96.99/181.00s)
+[1]Melira      |08:34:16 | 21-10-2026| watch bakeru-ikesou-jan-mv: 57% (103.21/181.00s)
+[1]Melira      |08:34:23 | 21-10-2026| watch bakeru-ikesou-jan-mv: 60% (108.97/181.00s)
+[1]Melira      |08:34:31 | 21-10-2026| watch bakeru-ikesou-jan-mv: 63% (115.29/181.00s)
+[1]Melira      |08:34:37 | 21-10-2026| watch bakeru-ikesou-jan-mv: 67% (122.20/181.00s)
+[1]Melira      |08:34:44 | 21-10-2026| watch bakeru-ikesou-jan-mv: 71% (128.52/181.00s)
+[1]Melira      |08:34:50 | 21-10-2026| watch bakeru-ikesou-jan-mv: 74% (134.30/181.00s)
+[1]Melira      |08:34:57 | 21-10-2026| watch bakeru-ikesou-jan-mv: 77% (140.10/181.00s)
+[1]Melira      |08:35:03 | 21-10-2026| watch bakeru-ikesou-jan-mv: 80% (146.07/181.00s)
+[1]Melira      |08:35:10 | 21-10-2026| watch bakeru-ikesou-jan-mv: 83% (151.83/181.00s)
+[1]Melira      |08:35:17 | 21-10-2026| watch bakeru-ikesou-jan-mv: 87% (157.63/181.00s)
+[1]Melira      |08:35:23 | 21-10-2026| watch bakeru-ikesou-jan-mv: 90% (163.96/181.00s)
+[1]Melira      |08:35:23 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (163.96/181.00s)
 --> [1]Melira menjalankan: Read Article
-[1]Melira      |07:11:24 | 20-10-2026| news: 27/27 artikel selesai dibaca
-[1]Melira      |07:11:25 | 20-10-2026| mint eligibility: {"userId":"1826663046670155776","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@meliiraa","status":"submitted","revision":"dd9bdeba-b581-4def-9d3e-aa1ed38342f1"
-[1]Melira      |07:11:25 | 20-10-2026| news: semua artikel sudah dibaca
+[1]Melira      |08:35:25 | 21-10-2026| news: 27/27 artikel selesai dibaca
+[1]Melira      |08:35:26 | 21-10-2026| mint eligibility: {"userId":"1826663046670155776","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@meliiraa","status":"submitted","revision":"dd9bdeba-b581-4def-9d3e-aa1ed38342f1"
+[1]Melira      |08:35:32 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Melira menjalankan: Quiz Anime
-[1]Melira      |07:11:26 | 20-10-2026| quiz ep1: sudah dijawab
-[1]Melira      |07:11:26 | 20-10-2026| quiz ep2: sudah dijawab
-[1]Melira      |07:11:26 | 20-10-2026| quiz ep3: sudah dijawab
-[1]Melira      |07:11:26 | 20-10-2026| quiz ep4: sudah dijawab
-[1]Melira      |07:11:26 | 20-10-2026| quiz ep5: sudah dijawab
-[1]Melira      |07:11:26 | 20-10-2026| quiz ep6: sudah dijawab
+[1]Melira      |08:35:35 | 21-10-2026| quiz ep1: sudah dijawab
+[1]Melira      |08:35:35 | 21-10-2026| quiz ep2: sudah dijawab
+[1]Melira      |08:35:35 | 21-10-2026| quiz ep3: sudah dijawab
+[1]Melira      |08:35:35 | 21-10-2026| quiz ep4: sudah dijawab
+[1]Melira      |08:35:35 | 21-10-2026| quiz ep5: sudah dijawab
+[1]Melira      |08:35:35 | 21-10-2026| quiz ep6: sudah dijawab
 --> [1]Melira menjalankan: Music Missions (realtime, bisa lama!)
-[1]Melira      |07:11:28 | 20-10-2026| music: kedua misi sudah tercapai, stop
-[1]Melira      |07:11:28 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Melira      |07:11:28 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Melira      |07:11:28 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Melira      |08:35:38 | 21-10-2026| music: kedua misi sudah tercapai, stop
+[1]Melira      |08:35:39 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Melira      |08:35:39 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Melira      |08:35:39 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Melira menjalankan: Claim Missions
-[1]Melira      |07:11:29 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Melira      |07:11:29 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Melira      |07:11:29 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Melira      |08:35:40 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Melira      |08:35:40 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Melira      |08:35:40 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Melira menjalankan: Check Eligibility
 
 --- eligibility [1]Melira ---
-  @melirakinasa | score=1530 rank=4575
-  tasks    [##################--] 73/80
+  @melirakinasa | score=1610 rank=4415
+  tasks    [###################-] 74/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 18/17
+  watch    [####################] 22/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Melira menjalankan: Read Manga
-[1]Melira      |07:11:34 | 20-10-2026| manga: 0/13 chapter belum completed
+[1]Melira      |08:35:44 | 21-10-2026| manga: 0/13 chapter belum completed
 --> [1]Melira menjalankan: Get Gift
-[1]Melira      |07:11:34 | 20-10-2026| gift: 0/4 belum diterima
+[1]Melira      |08:35:45 | 21-10-2026| gift: 0/4 belum diterima
 --> [1]Melira menjalankan: Setup Profile
-[1]Melira      |07:11:35 | 20-10-2026| profile: bio="https://x.com/melirakinasa" fav=oshi rewardAt=1791825814
-[1]Melira      |07:11:35 | 20-10-2026| profile: bonus sudah diklaim, skip
+[1]Melira      |08:35:46 | 21-10-2026| profile: bio="https://x.com/melirakinasa" fav=oshi rewardAt=1791825814
+[1]Melira      |08:35:46 | 21-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Melira menjalankan: Bind Wallet
-[1]Melira      |07:11:35 | 20-10-2026| wallet: sudah terikat HtP9kGCJ2e... (solana)
+[1]Melira      |08:35:47 | 21-10-2026| wallet: sudah terikat HtP9kGCJ2e... (solana)
 
 == RINGKASAN ==
-- Melira: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Melira: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 4/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
