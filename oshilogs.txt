@@ -12,37 +12,41 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Melira =====
-[1]Melira      |10:30:25 | 03-11-2026| login OK @melirakinasa | score=2740 rank=2861
-[1]Melira      |10:30:25 | 03-11-2026| serverTime=2026-11-03T10:30:25.000Z local=2026-11-03T10:30:25.502Z
+[1]Melira      |10:33:33 | 04-11-2026| login OK @melirakinasa | score=2770 rank=2830
+[1]Melira      |10:33:33 | 04-11-2026| serverTime=2026-11-04T10:33:33.000Z local=2026-11-04T10:33:33.159Z
 --> [1]Melira menjalankan: Claim Daily
-[1]Melira      |10:30:26 | 03-11-2026| daily: OK +10 poin score=2750
---> [1]Melira menjalankan: Auto All Tasks (2 pending)
-[1]Melira      |10:30:28 | 03-11-2026| [1/2] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/melirakinasa/status/2117564492902174442
-[1]Melira      |10:30:28 | 03-11-2026| delay 10s...
-[1]Melira      |10:30:40 | 03-11-2026| [2/2] b7f716d0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/melirakinasa/status/2117564822801444569
-[1]Melira      |10:30:40 | 03-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Melira      |10:30:42 | 03-11-2026| [1/1] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117219978491654 | proof=https://x.com/melirakinasa/status/2117564534243932923
+[1]Melira      |10:33:37 | 04-11-2026| daily: OK +10 poin score=2780
+--> [1]Melira menjalankan: Auto All Tasks (4 pending)
+[1]Melira      |10:33:39 | 04-11-2026| [1/4] fefe8b6d (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/melirakinasa/status/2117927972194953775
+[1]Melira      |10:33:39 | 04-11-2026| delay 10s...
+[1]Melira      |10:33:51 | 04-11-2026| [2/4] 9149dbd0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fefe8b6d-11ec-41bc-a662-dddeafc5068f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211791169583858 | proof=https://x.com/melirakinasa/status/2117927802734883874
+[1]Melira      |10:33:51 | 04-11-2026| delay 10s...
+[1]Melira      |10:34:02 | 04-11-2026| [3/4] ba012859 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fefe8b6d-11ec-41bc-a662-dddeafc5068f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211791169583858 | proof=https://x.com/melirakinasa/status/2117927827653436709
+[1]Melira      |10:34:02 | 04-11-2026| delay 10s...
+[1]Melira      |10:34:14 | 04-11-2026| [4/4] 6608dad0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fefe8b6d-11ec-41bc-a662-dddeafc5068f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211791169583858 | proof=https://x.com/melirakinasa/status/2117927854706334407
+[1]Melira      |10:34:14 | 04-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Melira      |10:34:16 | 04-11-2026| [1/1] fefe8b6d (reply) verify GAGAL http=429 resp={"error":"提出の間隔を10秒ほどあけて、もう一度お試しください。"} | proof=https://x.com/melirakinasa/status/2117927806274836007
 --> [1]Melira menjalankan: Watch Anime
-[1]Melira      |10:30:43 | 03-11-2026| watch: semua video sudah completed
+[1]Melira      |10:34:17 | 04-11-2026| watch: semua video sudah completed
 --> [1]Melira menjalankan: Read Article
-[1]Melira      |10:30:45 | 03-11-2026| news: 34/34 artikel selesai dibaca
-[1]Melira      |10:30:46 | 03-11-2026| mint eligibility: {"userId":"1826663046670155776","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@meliiraa","status":"submitted","revision":"dd9bdeba-b581-4def-9d3e-aa1ed38342f1"
-[1]Melira      |10:30:46 | 03-11-2026| news: semua artikel sudah dibaca
+[1]Melira      |10:34:18 | 04-11-2026| news: 34/34 artikel selesai dibaca
+[1]Melira      |10:34:19 | 04-11-2026| mint eligibility: {"userId":"1826663046670155776","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@meliiraa","status":"submitted","revision":"dd9bdeba-b581-4def-9d3e-aa1ed38342f1"
+[1]Melira      |10:34:19 | 04-11-2026| news: semua artikel sudah dibaca
 --> [1]Melira menjalankan: Quiz Anime
 --> [1]Melira menjalankan: Music Missions (realtime, bisa lama!)
-[1]Melira      |10:30:48 | 03-11-2026| music: kedua misi sudah tercapai, stop
-[1]Melira      |10:30:48 | 03-11-2026| mission music-listens-10: sudah diklaim
-[1]Melira      |10:30:48 | 03-11-2026| mission music-minutes-30: sudah diklaim
-[1]Melira      |10:30:48 | 03-11-2026| mission anime-completed-3: sudah diklaim
+[1]Melira      |10:34:22 | 04-11-2026| music: kedua misi sudah tercapai, stop
+[1]Melira      |10:34:23 | 04-11-2026| mission music-listens-10: sudah diklaim
+[1]Melira      |10:34:23 | 04-11-2026| mission music-minutes-30: sudah diklaim
+[1]Melira      |10:34:23 | 04-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Melira menjalankan: Claim Missions
-[1]Melira      |10:30:49 | 03-11-2026| mission music-listens-10: sudah diklaim
-[1]Melira      |10:30:49 | 03-11-2026| mission music-minutes-30: sudah diklaim
-[1]Melira      |10:30:49 | 03-11-2026| mission anime-completed-3: sudah diklaim
+[1]Melira      |10:34:23 | 04-11-2026| mission music-listens-10: sudah diklaim
+[1]Melira      |10:34:23 | 04-11-2026| mission music-minutes-30: sudah diklaim
+[1]Melira      |10:34:23 | 04-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Melira menjalankan: Check Eligibility
 
 --- eligibility [1]Melira ---
-  @melirakinasa | score=2740 rank=2861
-  tasks    [################----] 8/10
+  @melirakinasa | score=2770 rank=2830
+  tasks    [#######-------------] 2/6
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -53,17 +57,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Melira menjalankan: Read Manga
-[1]Melira      |10:30:53 | 03-11-2026| manga: 0/13 chapter belum completed
+[1]Melira      |10:34:26 | 04-11-2026| manga: 0/13 chapter belum completed
 --> [1]Melira menjalankan: Get Gift
-[1]Melira      |10:30:54 | 03-11-2026| gift: 3/9 belum diterima
-[1]Melira      |10:30:55 | 03-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Melira      |10:30:58 | 03-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Melira      |10:31:00 | 03-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Melira      |10:34:28 | 04-11-2026| gift: 3/9 belum diterima
+[1]Melira      |10:34:28 | 04-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Melira      |10:34:31 | 04-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Melira      |10:34:34 | 04-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Melira menjalankan: Setup Profile
-[1]Melira      |10:31:03 | 03-11-2026| profile: bio="https://x.com/melirakinasa" fav=oshi rewardAt=1791825814
-[1]Melira      |10:31:03 | 03-11-2026| profile: bonus sudah diklaim, skip
+[1]Melira      |10:34:36 | 04-11-2026| profile: bio="https://x.com/melirakinasa" fav=oshi rewardAt=1791825814
+[1]Melira      |10:34:36 | 04-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Melira menjalankan: Bind Wallet
-[1]Melira      |10:31:03 | 03-11-2026| wallet: sudah terikat HtP9kGCJ2e... (solana)
+[1]Melira      |10:34:37 | 04-11-2026| wallet: sudah terikat HtP9kGCJ2e... (solana)
 
 == RINGKASAN ==
-- Melira: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Melira: daily=claimed | tasks OK 3/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
