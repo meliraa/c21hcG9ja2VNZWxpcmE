@@ -12,56 +12,7 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Melira =====
-[1]Melira      |15:23:25 | 25-11-2026| login OK @melirakinasa | score=3480 rank=2247
-[1]Melira      |15:23:25 | 25-11-2026| serverTime=2026-11-25T15:23:25.000Z local=2026-11-25T15:23:25.205Z
---> [1]Melira menjalankan: Claim Daily
-[1]Melira      |15:23:27 | 25-11-2026| daily: OK +10 poin score=3490
---> [1]Melira menjalankan: Auto All Tasks (1 pending)
-[1]Melira      |15:23:29 | 25-11-2026| [1/1] f7b82d41 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f7b82d41-5dac-4ef2-9d40-7befdeea1bdc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212545341837459 | proof=https://x.com/melirakinasa/status/2125610865866746481
-[1]Melira      |15:23:29 | 25-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Melira      |15:23:31 | 25-11-2026| [1/1] f7b82d41 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f7b82d41-5dac-4ef2-9d40-7befdeea1bdc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2125453418374590 | proof=https://x.com/melirakinasa/status/2125610749719032217
---> [1]Melira menjalankan: Watch Anime
-[1]Melira      |15:23:32 | 25-11-2026| watch: semua video sudah completed
---> [1]Melira menjalankan: Read Article
-[1]Melira      |15:23:32 | 25-11-2026| news: 34/35 artikel selesai dibaca
-[1]Melira      |15:23:33 | 25-11-2026| mint eligibility: {"userId":"1826663046670155776","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@meliiraa","status":"submitted","revision":"dd9bdeba-b581-4def-9d3e-aa1ed38342f1"
-[1]Melira      |15:23:40 | 25-11-2026| news [1/1] sbi-solana-global-2026-11: OK completed=35
---> [1]Melira menjalankan: Quiz Anime
---> [1]Melira menjalankan: Music Missions (realtime, bisa lama!)
-[1]Melira      |15:23:44 | 25-11-2026| music: kedua misi sudah tercapai, stop
-[1]Melira      |15:23:44 | 25-11-2026| mission music-listens-10: sudah diklaim
-[1]Melira      |15:23:44 | 25-11-2026| mission music-minutes-30: sudah diklaim
-[1]Melira      |15:23:44 | 25-11-2026| mission anime-completed-3: sudah diklaim
---> [1]Melira menjalankan: Claim Missions
-[1]Melira      |15:23:44 | 25-11-2026| mission music-listens-10: sudah diklaim
-[1]Melira      |15:23:44 | 25-11-2026| mission music-minutes-30: sudah diklaim
-[1]Melira      |15:23:44 | 25-11-2026| mission anime-completed-3: sudah diklaim
---> [1]Melira menjalankan: Check Eligibility
-
---- eligibility [1]Melira ---
-  @melirakinasa | score=3480 rank=2247
-  tasks    [################----] 4/5
-  mission  music-listens-10:      claimed
-  mission  music-minutes-30:      claimed
-  mission  anime-completed-3:     claimed
-  quiz     [?]
-  watch    [####################] 22/17
-  music    [#################---] 11/13
-  artikel  [####################] 35/35
-  mint: requirementsMet=false mintOpen=false discord=true
-
---> [1]Melira menjalankan: Read Manga
-[1]Melira      |15:23:48 | 25-11-2026| manga: 0/13 chapter belum completed
---> [1]Melira menjalankan: Get Gift
-[1]Melira      |15:23:50 | 25-11-2026| gift: 3/12 belum diterima
-[1]Melira      |15:23:51 | 25-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Melira      |15:23:54 | 25-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Melira      |15:23:56 | 25-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
---> [1]Melira menjalankan: Setup Profile
-[1]Melira      |15:23:59 | 25-11-2026| profile: bio="https://x.com/melirakinasa" fav=oshi rewardAt=1791825814
-[1]Melira      |15:23:59 | 25-11-2026| profile: bonus sudah diklaim, skip
---> [1]Melira menjalankan: Bind Wallet
-[1]Melira      |15:23:59 | 25-11-2026| wallet: sudah terikat HtP9kGCJ2e... (solana)
+[1]Melira      |14:50:41 | 26-11-2026| dashboard ERROR: dashboard http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
 
 == RINGKASAN ==
-- Melira: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Melira: daily=- | tasks OK 0/0
